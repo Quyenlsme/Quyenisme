@@ -1,0 +1,447 @@
+ET2000	NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+(Introduction to Electronics and Telecommunication Engineering)
+
+Phiên bản: 2020.1.0
+1.	THÔNG TIN CHUNG (General Information)
+
+Tên học phần:
+(Course name)	Nhập môn kỹ thuật
+(Introduction to Electronics and Telecommunications Engineering)
+Mã số học phần:
+(Course ID)	ET2000
+Khối lượng:
+(Course units)	2(2-0-1-4)
+-	Lý thuyết (Lecture): 30 tiết/ 30 credit hours
+-	Bài tập/BTL (Homework/Team project):0 tiết/ 0 credit hours
+-	Thí nghiệm (Practice): Thực tập nhận thức tại các cơ sở bên ngoài (Awareness practice at external institutions)
+Học phần tiên quyết:
+(Requisite course)	Không
+(None)
+Học phần học trước:
+(Required course)	-	Không có
+-	(None)
+Học phần song hành:
+(Parallel course)	ET2020 Thực tập cơ bản
+(ET2020 - Basic Practice)
+
+2.	MÔ TẢ HỌC PHẦN (Course Description)
+
+Học phần Nhập môn kỹ thuật Điện tử Viễn thông cung cấp cho sinh viên hiểu biết về các ngành kỹ thuật nói chung và ngành điện tử - viễn thông nói riêng. Sinh viên nhận thức rõ về chương trình đào tạo, kiến thức và kỹ năng cần trau dồi cũng như vai trò, công việc của mình trong bối cảnh kinh tế xã hội. Học phần giúp sinh viên bước đầu học phương pháp giải quyết bài toán thực tiễn, phát triển kỹ năng chuyên nghiệp và kỹ năng xã hội, tạo điều kiện cho sinh viên học phương pháp lập nhóm và làm việc theo nhóm; Môn học cũng giúp sinh viên có được sự say mê cùng sự tự tin cần thiết trong học tập và trên con đường nghề nghiệp sau này.
+Môn học cũng cung cấp cho sinh viên kỹ làm việc nhóm, báo cáo và thuyết trình, giao tiếp, đạo đức và giải quyết vấn đề trong kỹ thuật.
+
+The course of Introduction to Electronics and Telecommunication Engineering provides students with an understanding of Engineering disciplines in general and the Electronics and Telecommunications Engineering discipline in particular. Students are well aware of the education program, knowledge and skills to be cultivated as well as their role and work in the socio-economic context. The course helps students to initially learn methods to solve practical problems, develop professional and social skills, and facilitate students to learn how to form a team and do teamwork; The course also helps students gain the passion and confidence they need in their studies and in their career paths.
+The course also provides students with teamwork skill, reporting and presentations skill, communication skill, ethics and problem-solving skill in engineering.
+ 
+3.	MỤC TIÊU VÀ CHUẨN ĐẦU RA CỦA HỌC PHẦN (Course Objectives and Learning Outcomes)
+Sinh viên hoàn thành học phần này có khả năng:
+Upon completion of the course, students will be able to:
+
+Mục
+tiêu/CĐ R
+(Objecti ves/Outc omes)	
+
+Mô tả mục tiêu/Chuẩn đầu ra của học phần
+(Description of Objectives/Outcomes)	CĐR được phân bổ cho HP/ Mức độ (I/T/U)
+(Outcomes mapping/ ITU level)
+[1]	[2]	[3]
+M1	Kiến thức:
+Phân biệt được các ngành kỹ thuật nói chung và vai trò của kỹ thuật trong phát triển kinh tế - xã hội Knowledge:
+To distinguish technical disciplines and the role of Engineering in socio-economic development	T
+M2	Trình bày lịch sử phát triển và vai trò của ngành điện tử viễn thông
+Overview the development history and role of the Electronics and Telecommunications	T
+M2.1	Tổng quan về ngành điện tử - viễn thông
+Overview the field of Electronics and Telecommunications	T
+M2.2	Lịch sử, đặc điểm và vai trò của lĩnh vực điện tử
+The history, features and role of Electronics field	T
+M2.3	Lịch sử, đặc điểm và vai trò của lĩnh vực viễn thông
+The history, features and role of Telecommunications field	T
+M3	Phân biệt được chương trình học, kiến thức và kỹ năng cần trang bị, công việc sau khi ra trường
+
+Be able to distinguish the education programs offered by SET, necessary knowledge and soft skills, jobs after graduation	T
+M4	Hiểu và áp dụng các công cụ và phương pháp thiết kế
+kỹ thuật	T
+ 
+Mục
+tiêu/CĐ R
+(Objecti ves/Outc omes)	
+
+Mô tả mục tiêu/Chuẩn đầu ra của học phần
+(Description of Objectives/Outcomes)	CĐR được phân bổ cho HP/ Mức độ (I/T/U)
+(Outcomes mapping/ ITU level)
+	Understand and be able to apply tools and engineering
+design methods	
+M4.1	An toàn điện, linh kiện điện tử, thiết bị đo, công cụ phần mềm mô phỏng và thiết kế trong điện tử - viễn thông
+
+Electrical safety, electronic components, measuring equipment, software tools for simulation and design in electronics and telecommunications	T
+M4.2	Quy trình các bước thiết kế kỹ thuật
+Engineering design process	T
+M5	Kỹ năng làm việc nhóm, báo cáo thuyết trình, đạo đức thiết kế, kỹ năng giao tiếp, tư duy sáng tạo và khởi nghiệp, kỹ năng làm thực nghiệm.
+Teamwork, presentation, and interpersonal skills, ethics, creative thinking skill and entrepreneurship, experimental skills.	T
+M6	Trải nghiệm về doanh nghiệp thực tế trong lĩnh vực điện tử viễn thông
+Practical experience in businesses in the electronics and telecommunications	I
+4.	TÀI LIỆU HỌC TẬP (Textbooks and References)
+Giáo trình (Lecture Slides)
+[1]. Bộ slides bài giảng môn nhập môn kỹ thuật (Lecture slides)
+
+Sách tham khảo (References)
+[1]. Charles B. Fleddermann, Martin D. Bradshaw, Introduction to Electrical and Computer Engineering, Prentice Hall, 2003.
+5.	CÁCH ĐÁNH GIÁ HỌC PHẦN (Course Evaluation)
+
+
+Điểm thành phần
+(Grading)	Phương pháp đánh giá cụ thể
+(Evaluation methods)	
+Mô tả
+(Description)	CĐR được đánh giá
+(Evaluated outcomes)	Tỷ trọng
+(Weigh ts)
+[1]	[2]	[3]	[4]	[5]
+ 
+A1. Điểm quá trình (*)
+Progress grading	Bài tập lớn, làm theo nhóm
+
+Team-based project work	Làm bài tập lớn, báo cáo viết, thuyết trình, vấn đáp
+
+Completion of project work, final report, presentation and oral exam	M1÷M4.1 M6	40%
+A2. Điểm cuối kỳ
+Final-Exam grading	Bài tập lớn, làm theo nhóm
+
+Team-based project work	Làm bài tập lớn, báo cáo viết, thuyết trình, vấn đáp
+
+Completion of project work, final report, presentation and oral exam	M1÷ M6	60%
+* Điểm quá trình sẽ được điều chỉnh bằng cách cộng thêm điểm chuyên cần. Điểm chuyên cần có giá trị từ –2 đến +1, theo Quy chế Đào tạo đại học hệ chính quy của Trường ĐH Bách khoa Hà Nội.
+Progress scores will be adjusted by adding attendance points. Attendance scores are valid from - 2 to +1, according to the University's Regulation on formal University Training..
+Môn học này sẽ đánh giá dựa trên kết quả thực hiện các bài tập lớn/hoạt động lớp/dự án hàng tuẩn.
+This course will be assessed based on the results of weekly assignments / in-class activities / projects.
+6.	KẾ HOẠCH GIẢNG DẠY (Teaching Plan)
+6.1.	Kế hoạch giảng dạy về lý thuyết và bài tập (Lecture/homework teaching plan):
+ 
+
+Tuần
+(Week)	
+Nội dung
+(Contents)	CĐR học phần
+(Course outcomes)	Hoạt động dạy và học
+(Activities)	Bài đánh giá
+(Evaluation methods)
+[1]	[2]	[3]	[4]	[5]
+1	GIỚI THIỆU MỞ ĐẦU
+-	Giới thiệu nội dung môn học: Mục tiêu, nội dung môn học.
+-	Tài liệu tham khảo, phương pháp học
+
+INTRODUCTION
+-	To	introduce	the	course: Course’s objectives and content.
+-	To	introduce	References, learning methods		-	Giới thiệu giáo viên, quy định   cách
+chấm điểm đánh giá giữa kỳ và cuối kì và trong cả học kỳ, luật của lớp.
+-	Chia nhóm (3- 5) sinh viên
+-	Introduce the instructor, Progress evaluation, midterm	and final assessment, class rules
+-	Form	groups of		(3-5)
+students	A1
+ 
+2	CHƯƠNG 1: GIỚI THIỆU CHUNG VỀ CÁC LĨNH VỰC KỸ THUẬT
+-	Giới thiệu Kỹ thuật, phân biệt với Khoa học, Công nghệ
+-	Phân biệt kỹ sư với nhà khoa học, các công việc của một kỹ sư
+-	Vai trò của Kỹ thuật trong quá trình phát triển kinh tế - xã hội
+
+CHAPTER 1: INTRODUCTION TO ENGINEERING FIELDS
+-	To introduce Engineering, distinguished from Science and Technology
+-	To distinguish engineers from scientists, the work of an engineer
+-	To introduce the role of Technology in socio-economic
+development		-	Giảng bài
+-	Sinh viên tìm hiểu bổ sung và thảo luận nhóm
+-	Faculty conducts lectures
+-	Students perform group discussion and further study	A1
+3	-	Vai trò của STEM trong kỹ thuật
+-	Giải quyết vấn đề và tư duy thiết kế trong kỹ thuật
+-	Các ngành kỹ thuật: sự phân chia, giao thoa và liên kết các ngành
+-	The role of STEM in engineering
+-	Problem solving and design thinking in engineering
+-	Engineering	disciplines: division,   interference   and
+integration of those disciplines			A1
+ 
+4	CHƯƠNG 2: GIỚI THIỆU VỀ NGÀNH KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+2.1.	Lịch sử hình thành, phát triển và vai trò phát triển ngành ĐTVT
+-	Lịch sử phát triển của ngành ĐTVT
+-	Vai trò của ngành ĐTVT trong đời sống, kinh tế, xã hội;
+-	Vai trò của ĐTVT trong cách mạng công nghiệp lần thứ 4, chuyển đổi số
+-	Các chuyên ngành trong ĐTVT
+-	Các vấn đề ngành ĐTVT phải giải quyết
+
+CHAPTER 2: INTRODUCTION TO THE FIELD OF ELECTRONIC - TELECOMMUNICATION ENGINEERING
+2.1.	The development history and role of Electronics and Telecommunication Engineering
+-	Development history of the Field of Electronics and Telecommunication
+Engineering
+-	The role of the Electronics and Telecommunication Engineering Sector in life,
+economy and society.
+-	The role of the Electronics and Telecommunication Engineering in the 4th
+industrial revolution and digital transformation
+-	The problems to be solved by the Electronics and
+Telecommunication Engineering		-	Giảng bài
+-	Sinh viên tìm hiểu bổ sung và thảo luận nhóm
+-	Sinh viên thực hành kỹ năng làm việc nhóm và thuyết trình trên lớp
+-	Sinh viên chơi 1 trò chơi rèn kỹ năng thuyết trình
+-	Faculty conducts lectures
+-	Students perform group discussion and further study
+-	Students practice teamwork and presentation skills
+-	Students play a	game	to practice presentation skills	A1
+ 
+5	2.2. Giới thiệu về lĩnh vực Viễn thông
+-	Sơ lược lịch sử phát triển lĩnh vực Viễn thông
+-	Đặc điểm của hệ thống và mạng viễn thông
+-	Các vấn đề kỹ thuật chính mà ngành Viễn thông giải quyết
+2.2. Introduction to the field of Telecommunications
+-	Brief history of development of the telecommunications field
+-	Characteristics of telecommunications systems and networks
+-	Main technical issues to be solved by the telecommunications
+engineering			A1
+ 
+6	2.3. Giới thiệu về lĩnh vực Điện tử
+-	Kỹ thuật máy tính
+-	Giới thiệu khái niệm mạch điện tử, linh kiện điện tử, vi mạch và định luật Moore
+-	Khái niệm về máy tính, các loại máy tính: máy tính cá nhân, máy chủ, máy tính nhúng
+-	Giới thiệu các lĩnh vực ứng dụng của mạch điện tử và máy tính nhúng: thiết bị điện tử dân dụng, điện tử y sinh, điện tử hàng không vũ trụ, điện tử trong ô tô
+-	Mô hình phân lớp để nghiên cứu một thiết bị, hệ thống điện tử: lớp phần cứng, lớp phần mềm hệ thống, lớp phần mềm ứng dụng
+2.3. Introduction to the field of Electronics and Computer Engineering
+-	Introduction to the concepts of electronic circuits, electronic
+components, circuits and Moore's law
+-	The concept of computers, types of computers: personal computers, servers, embedded
+computers
+-	Introduction to the applications of electronic circuits and embedded computers: civil
+electronics, biomedical electronics, aerospace electronics, automotive electronics
+-	The architecture model for studying an electronic system
+or device: hardware layer, system software layer, application software layer			A1
+ 
+7	2.4. Giới thiệu về Viện Điện tử - Viễn thông và các chương trình đào tạo của Viện ĐTVT
+-	Lịch sử hình thành và phát triển của Viện ĐTVT
+-	Chương trình đào tạo cử nhân
+-	Chương trình đào tạo kỹ sư
+-	Chương trình đào tạo tích hợp Cử nhân – Thạc sĩ
+2.4. Introduction to the School of Electronics and Telecommunications and the training programs offered by the School
+-	Development History of the School
+-	Bachelor training program
+-	Engineers training program
+-	Integrated Bachelor - Master
+training program			A1
+ 
+8	2.5.	Giới thiệu về ngành học ĐTVT
+-	Kiến thức mà cử nhân/kỹ sư ĐTVT cần đạt được và liên quan đến các môn học trong CTĐT
+-	Kỹ năng mà cử nhân/kỹ sư ĐTVT cần đạt được và liên quan đến các môn học trong CTĐT
+-	Hoạt động tham gia nghiên cứu tại Lab
+-	Các loại hình công việc mà cử nhân/kỹ sư ĐTVT tham gia
+-	Các công ty, doanh nghiệp lớn trong lĩnh vực ĐTVT tại VN và thế giới
+-	Số liệu thống kê về nhu cầu nhân lực trình độ cao của lĩnh vực ĐTVT
+2.5. Introduction to the field of Electronics and Telecommunications Engineering
+-	The knowledge that a Bachelor / Engineer needs to obtain and the relationship among the
+subjects in the whole curriculum
+-	Skills that a Bachelor / Engineer needs to achieve and its relationship to subjects in the
+whole curriculum
+-	Research activities in the laboratories of the School
+-	Types of work that a graduate in Electronics	and
+Telecommunications Engineering can participate.
+-	Large companies and enterprises in the Telecom sector in Vietnam and the world
+-	- Statistics on the demand for highly qualified human resources in the Electronics
+and Telecommunication sector			A1
+ 
+9	THỰC TẬP NHẬN THỨC TẠI DOANH NGHIỆP LĨNH VỰC ĐTVT
+-	Đi tham quan tìm hiểu thực tế môi trường tại một doanh nghiệp ngành ĐTVT
+-	Giảng viên có thể chủ động liên hệ doanh nghiệp/công ty hoặc Viện sẽ liên hệ và bố trí.
+-	Giảng viên dẫn lớp đi đến điểm thực tập
+-	Viết báo cáo thu hoạch
+AWARENESS PRACTICE IN ENTERPRISES IN THE ELECTRONICS AND TELECOMMUNITIONS FIELD
+-	Field trip to learn the real environment in an enterprise in the electronics and
+telecommunications field
+-	Lecturers can actively contact business / company or the School contacts and arranges
+the field trip.
+-	The lecturers lead the class to the practice site
+-	Students write a harvest report		-	A1
+ 
+10	CHƯƠNG 3: CÔNG CỤ VÀ CÁC PHƯƠNG PHÁP THIẾT KẾ KỸ THUẬT
+3.1.	Phát triển các Kỹ năng: Làm việc nhóm, viết báo cáo và trình bày, đạo đức, sáng tạo và khởi nghiệp
+-	Kỹ năng làm việc nhóm
+-	Viết báo cáo và trình bày, thuyết trình
+-	Kỹ năng giao tiếp qua email và điện thoại
+-	Đạo đức trong thiết kế
+-	Tư duy sáng tạo và khởi nghiệp
+CHAPTER 3: ENGINEERING DESIGNING TOOLS AND METHODS
+3.1.	Skills Development: Team work skill, report writing and presentation skill, ethics, creative thinking skill and entrepreneurship skill
+-	Teamwork skill
+-	Writing reports and presentations
+-	Communication skills via email and phone
+-	Ethics in design
+-	Creative thinking and entrepreneurship skill			
+ 
+11	3.2. Các công cụ thiết kế: an toàn điện, linh kiện điện tử, phần mềm mô phỏng, thiết bị đo kiểm, thiết kế phần cứng, lập trình phần mềm
+-	An toàn điện: Thủ pháp an toàn điện cơ bản, bảo vệ chống tĩnh điện EOS/ESD, tương thích điện từ
+-	Linh kiện điện tử và mạch điện tử
+-	Các công cụ phần mềm: phần mềm mô phỏng mạch điện tử, phần mềm mô phỏng mô hình và hệ thống, phần mềm thiết kế mạch điện tử và các phần mềm khác có liên quan
+-	Thiết bị đo cơ bản: đồng hồ vạn năng, Ô-xi-lô, Nguồn một chiều, Máy phát hàm, …
+
+3.2. Design tools: electrical safety, electronic components, simulation software, testing equipment, hardware design, software programming
+-	Electrical safety: Basic electrical safety procedure, EOS / ESD protection against static electricity, compatible with electromagnetic
+-	Electronic components and electronic circuits
+-	Software tools: electronic circuit simulation software, model and system simulation software, electronic circuit design software and other related software
+-	Basic measuring equipment: multimeter, oscilloscope, DC power, waveform generator, ...		-	A1
+ 
+12	3.3. Quy trình thiết kế kỹ thuật: 9 bước thiết kế
+-	Xác định nhu cầu sản phẩm
+-	Tạo chỉ tiêu kỹ thuật
+-	Bước lập kế hoạch
+-	Bước thực hiện sơ đồ khối
+
+3.3. Engineering design process: 9 design steps
+-	Determine needs
+-	Create technical specifications
+-	Develop a Plan
+-	Perform block design		-	A2
+13	-	Thiết kế từng khối
+-	Lựa chọn phương án tối ưu
+-	Kiểm tra và đánh giá
+-	Chế tạo/sản xuất
+-	Đưa sản phẩm ra thị trường
+-	Design each block
+-	Select best alternatives
+-	Test
+-	Manufacture
+-	Deliver		-	A2
+ 
+14 +15	CHƯƠNG 4: TRIỂN KHAI, ĐÁNH GIÁ BÀI TẬP LỚN THIẾT KẾ (TEAM PROJECT)
+(Triển khai thực hiện: Tuần 4 – 13, đánh giá tuần 14-15)
+-	Đề xuất thiết kế một sản phẩm ĐTVT
+-	Đề tài chọn danh sách gợi ý cho trước hoặc có thể đề xuất
+-	Áp dụng các kỹ năng, công cụ và quy trình thiết kế đã học ở chương 3
+-	Hoàn thành thiết kế, báo cáo và trình bày
+CHAPTER 4: DEVELOPMENT AND ASSESSMENT OF TEAM PROJECTS
+(Implementation: Week 4-13,
+Evaluation: week 14-15)
+-	Students propose to design an electronics- telecommunications products
+-	Ideas can be selected from a predefined list of suggestions or can be proposed by students
+-	Apply the design skills, use tools and processes learned in Chapter 3
+-	Complete the proposed
+design, write a report and make final presentation		-	A2
+6.2.	Kế hoạch giảng dạy thí nghiệm (Lab teaching plan)
+Sinh viên sẽ làm tiểu luận theo nhóm từ 4 đến 5 sinh viên để giúp sinh viên thực hành kỹ năng làm việc nhóm và các kỹ năng giải quyết vấn đề kỹ thuật. Sinh viên được yêu cầu thiết kế một sản phẩm phần mềm hoặc phần cứng (mạch điện tử) đơn giản ứng dụng được trong đời sống và áp dụng quy trình phân tích 9 bước thiết kế kỹ thuật.
+Bên cạnh tiểu luận, sinh viên còn được đi thực tập nhận thức tại một số đơn vị hoạt động trong lĩnh vực điện tử viễn thông.
+ 
+Students will do group-based essays of 4 to 5 students to help them practice teamwork skills and technical problem solving skills. Students are asked to design a simple software or hardware product (electronic circuit) that applies to life and to apply a 9-step engineering design process.
+In addition to the essay, students are also go in a field trip to some businesses active in the field of electronics and telecommunications.
+7.	QUY ĐỊNH CỦA HỌC PHẦN (Course Requirement)
+(Các quy định của học phần nếu có)/ Course Requirement if available
+8.	NGÀY PHÊ DUYỆT (Approved Date): …………………..
+
+Chủ tịch Hội đồng
+Chairmain	Nhóm xây dựng đề cương
+Syllabus development team
+
+
+
+Nguyễn Văn Khang
+
+
+9.	QUÁ TRÌNH CẬP NHẬT (Update Reference)
+
+
+Lần cập nhật
+Update	
+Nội dung điều chỉnh
+Adjusted content	Ngày tháng
+được phê duyệt
+Approved date	Áp dụng từ kỳ/khóa
+Applied to semester/co- hort	
+Ghi chú
+Note
+1	Bổ sung các nội dung kỹ năng mềm, gồm: Kỹ năng làm việc nhóm, kỹ năng thuyết trình, kỹ năng làm báo cáo, kỹ năng sử dụng Gannt chart để quản lý kế hoạch.
+Supplementing content of soft skills, including teamwork skills, presentation skills, reporting skills, skills to use Gannt chart to manage plans.		K59/cohort K59	
+
+10.	NỘI DUNG CẬP NHẬT SO VỚI ĐỀ CƯƠNG TRƯỚC ĐÓ/ UPDATED CONTENTS COMPARED TO THE PREVIOUS SYLLABUS
+-	Nội dung chuyên môn:/Technical content
++ Bỏ nội dung …./Concent removal ….
++ Bổ sung nội dung cho sinh viên đọc báo khoa học/ Additional content for students to read scientific research papers
+-	Phương pháp giảng dạy:/Pedagogy methods
++ Bổ sung thêm phương pháp giảng dạy làm việc nhóm, thuyết trình
+ 
++ Additional teaching methods for in-class group discussion and group presentations
+-	Bài thí nghiệm: không / Experiment: no
+Điện tử viễn thông là gì? 4 công việc hấp dẫn khi ra trường
+Dài hơn một thế kỷ trước, cuộc cách mạng công nghiệp đã mở ra kỷ nguyên của sự tiến bộ và phát triển. Và trong những năm gần đây, sự phát triển nhanh chóng của công nghệ thông tin và truyền thông đã mang lại những tiến bộ đáng kinh ngạc.
+
+Một lĩnh vực công nghệ cụ thể đã nổi lên từ sự tiến hóa này, đó là “điện tử viễn thông”. Vậy điện tử viễn thông là gì, học điện tử viễn thông ra làm gì?
+
+Điện tử viễn thông là gì? Tìm hiểu ngay cùng Trawise
+Điện tử viễn thông là gì? Tìm hiểu ngay cùng Trawise
+MỤC LỤC BÀI VIẾT
+1. Điện tử viễn thông là gì?
+2. Sinh viên điện tử viễn thông được học những gì?
+3. Học điện tử viễn thông ra làm gì?
+3.1. Làm việc trong công ty viễn thông
+3.2. Công nghệ thông tin
+3.3. Nghiên cứu và phát triển
+3.4. Kỹ thuật viên truyền thông
+4. Có nên đi du học ngành điện tử viễn thông?
+5. Lời kết
+1. Điện tử viễn thông là gì?
+Trước hết, chúng ta phải định nghĩa được điện tử viễn thông là gì?
+
+Điện tử viễn thông là một lĩnh vực kỹ thuật chuyên về việc truyền tải, xử lý và chuyển đổi thông tin bằng sử dụng các hệ thống và thiết bị điện tử. Nó liên quan đến các công nghệ như viễn thông, mạng máy tính, viễn thông di động, truyền hình, và nhiều hơn nữa.
+
+Đây là một lĩnh vực đóng vai trò hết sức quan trọng trong thời đại công nghệ
+Đây là một lĩnh vực đóng vai trò hết sức quan trọng trong thời đại công nghệ
+Lĩnh vực này đóng vai trò quan trọng trong việc phát triển và cung cấp các dịch vụ truyền thông hiện đại như điện thoại di động, internet, truyền hình số và các ứng dụng khác.
+
+2. Sinh viên điện tử viễn thông được học những gì?
+Khi sinh viên chọn đi theo ngành điện tử viễn thông, họ sẽ học những kiến thức cơ bản về lý thuyết điện tử, viễn thông, mạng máy tính và các hệ thống truyền thông.
+
+Họ sẽ được đào tạo về việc thiết kế, triển khai và quản lý các hệ thống viễn thông. Các môn học cụ thể bao gồm:
+
+Các kiến thức cơ bản mà sinh viên điện tử viễn thông được học
+Các kiến thức cơ bản mà sinh viên điện tử viễn thông được học
+Điện tử và viễn thông cơ bản: Cung cấp kiến thức về lý thuyết điện tử, nguyên lý truyền thông và các công nghệ viễn thông cơ bản.
+Mạng máy tính: Hướng dẫn về cách xây dựng và quản lý các mạng máy tính, bao gồm cả mạng có dây và mạng không dây.
+Công nghệ viễn thông di động: Nghiên cứu về các hệ thống viễn thông không dây như mạng di động, Wifi và Bluetooth, cũng như việc phát triển ứng dụng di động.
+Truyền dẫn và xử lý tín hiệu: Tập trung vào các phương pháp truyền dẫn tín hiệu điện tử và xử lý tín hiệu số để truyền tải và nhận dữ liệu.
+Điện tử viễn thông tiên tiến: Đào tạo sinh viên về các công nghệ tiên tiến như mạng ngầm, truyền thông quang học và xử lý tín hiệu cao cấp.
+3. Học điện tử viễn thông ra làm gì?
+Bạn đã biết được điện tử viễn thông là gì rồi, giờ đây hãy cùng xem xem học điện tử viễn thông ra làm gì?
+
+Sau khi hoàn thành chương trình học điện tử viễn thông, sinh viên có nhiều cơ hội nghề nghiệp như 4 lựa chọn dưới đây:
+
+3.1. Làm việc trong công ty viễn thông
+Đầu tiên, khi hỏi học điện tử viễn thông ra làm gì thì các công ty viễn thông sẽ hiện lên đầu tiên. Các công ty viễn thông hàng đầu như Ericsson, Nokia, Huawei hay Viettel luôn cần có các chuyên gia điện tử viễn thông để phát triển, triển khai và quản lý hệ thống viễn thông của họ.
+
+Trụ sở của tập đoàn Viettel
+Trụ sở của tập đoàn Viettel
+Sinh viên điện tử viễn thông có thể làm việc trong các bộ phận nghiên cứu và phát triển, quản lý dự án và hỗ trợ kỹ thuật.
+
+3.2. Công nghệ thông tin
+Rất nhiều công ty phần mềm, công ty phát triển ứng dụng di động và các công ty công nghệ thông tin khác cũng đang tìm kiếm các chuyên gia điện tử viễn thông để làm việc trong các dự án truyền thông.
+
+Bạn có thể tham gia vào việc phát triển ứng dụng di động, xây dựng và quản lý hệ thống mạng, cũng như tham gia vào phân tích và quản lý dữ liệu.
+
+3.3. Nghiên cứu và phát triển
+Có quá nhiều viện nghiên cứu, trường Đại học và tổ chức nghiên cứu công nghệ cần các chuyên gia điện tử viễn thông để thực hiện nghiên cứu và phát triển công nghệ mới.
+
+Sinh viên có thể tham gia vào các dự án nghiên cứu về viễn thông, mạng máy tính và các công nghệ tiên tiến khác. Từ đó tạo ra những đóng góp quan trọng cho sự phát triển của ngành.
+
+Do đó, bạn hoàn toàn có thể lựa chọn làm nghiên cứu nếu còn đang băn khoăn học điện tử viễn thông ra làm gì?
+
+3.4. Kỹ thuật viên truyền thông
+Lựa chọn trở thành một kỹ thuật viên truyền thông
+Lựa chọn trở thành một kỹ thuật viên truyền thông
+Tốt nghiệp ngành này, bạn có cơ hội làm việc như kỹ thuật viên truyền thông trong các công ty truyền thông, truyền hình và đài phát thanh. Sinh viên có thể tham gia vào việc thiết lập, cấu hình và bảo trì các hệ thống truyền thông, hỗ trợ kỹ thuật cho khách hàng và giải quyết các vấn đề kỹ thuật.
+
+4. Có nên đi du học ngành điện tử viễn thông?
+Đi du học ngành điện tử viễn thông mang lại nhiều lợi ích đáng kể.
+
+Những lý do nên đi du học ngành điện tử viễn thông
+Những lý do nên đi du học ngành điện tử viễn thông
+Đầu tiên, việc học tại các trường đại học uy tín trên thế giới sẽ đem lại cho sinh viên một môi trường học tập tiên tiến, cơ sở vật chất hiện đại và cơ hội tiếp cận với các chuyên gia hàng đầu trong lĩnh vực.
+
+Thứ hai, du học có thể giúp sinh viên mở rộng mạng lưới quan hệ và tạo dựng liên kết quốc tế. Việc gặp gỡ và học hỏi từ các sinh viên và giảng viên đến từ nhiều quốc gia khác nhau sẽ mở ra cơ hội hợp tác và phát triển trong tương lai.
+
+Cuối cùng, du học ngành điện tử viễn thông sẽ tạo điều kiện cho sinh viên được trải nghiệm và thích ứng với môi trường và công nghệ mới. Điều này rất quan trọng trong một lĩnh vực công nghệ nhanh chóng thay đổi như điện tử viễn thông.
+
+Tham khảo thêm: Nên đi du học nước nào rẻ? TOP 10 lựa chọn tốt nhất cho bạn
+
+5. Lời kết
+Điện tử viễn thông là gì? Học điện tử viễn thông ra làm gì? Trawise đã giải đáp chi tiết cho bạn qua bài viết này. Tóm lại, điện tử viễn thông là một lĩnh vực công nghệ quan trọng trong thế giới hiện đại. 
+
+Chúc bạn sẽ thành công trên chặng đường học tập sắp tới.

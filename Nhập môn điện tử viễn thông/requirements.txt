@@ -1,0 +1,12 @@
+langchain_community
+langchain
+bs4
+requests
+gradio
+underthesea
+pytorch
+faiss-cpu
+langchain_groq
+langchain_core
+rank_bm25
+sentence_transformers
