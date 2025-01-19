@@ -1,447 +1,2800 @@
-ET2000	NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
-(Introduction to Electronics and Telecommunication Engineering)
 
-Phiên bản: 2020.1.0
-1.	THÔNG TIN CHUNG (General Information)
-
-Tên học phần:
-(Course name)	Nhập môn kỹ thuật
-(Introduction to Electronics and Telecommunications Engineering)
-Mã số học phần:
-(Course ID)	ET2000
-Khối lượng:
-(Course units)	2(2-0-1-4)
--	Lý thuyết (Lecture): 30 tiết/ 30 credit hours
--	Bài tập/BTL (Homework/Team project):0 tiết/ 0 credit hours
--	Thí nghiệm (Practice): Thực tập nhận thức tại các cơ sở bên ngoài (Awareness practice at external institutions)
-Học phần tiên quyết:
-(Requisite course)	Không
-(None)
-Học phần học trước:
-(Required course)	-	Không có
--	(None)
-Học phần song hành:
-(Parallel course)	ET2020 Thực tập cơ bản
-(ET2020 - Basic Practice)
-
-2.	MÔ TẢ HỌC PHẦN (Course Description)
-
-Học phần Nhập môn kỹ thuật Điện tử Viễn thông cung cấp cho sinh viên hiểu biết về các ngành kỹ thuật nói chung và ngành điện tử - viễn thông nói riêng. Sinh viên nhận thức rõ về chương trình đào tạo, kiến thức và kỹ năng cần trau dồi cũng như vai trò, công việc của mình trong bối cảnh kinh tế xã hội. Học phần giúp sinh viên bước đầu học phương pháp giải quyết bài toán thực tiễn, phát triển kỹ năng chuyên nghiệp và kỹ năng xã hội, tạo điều kiện cho sinh viên học phương pháp lập nhóm và làm việc theo nhóm; Môn học cũng giúp sinh viên có được sự say mê cùng sự tự tin cần thiết trong học tập và trên con đường nghề nghiệp sau này.
-Môn học cũng cung cấp cho sinh viên kỹ làm việc nhóm, báo cáo và thuyết trình, giao tiếp, đạo đức và giải quyết vấn đề trong kỹ thuật.
-
-The course of Introduction to Electronics and Telecommunication Engineering provides students with an understanding of Engineering disciplines in general and the Electronics and Telecommunications Engineering discipline in particular. Students are well aware of the education program, knowledge and skills to be cultivated as well as their role and work in the socio-economic context. The course helps students to initially learn methods to solve practical problems, develop professional and social skills, and facilitate students to learn how to form a team and do teamwork; The course also helps students gain the passion and confidence they need in their studies and in their career paths.
-The course also provides students with teamwork skill, reporting and presentations skill, communication skill, ethics and problem-solving skill in engineering.
- 
-3.	MỤC TIÊU VÀ CHUẨN ĐẦU RA CỦA HỌC PHẦN (Course Objectives and Learning Outcomes)
-Sinh viên hoàn thành học phần này có khả năng:
-Upon completion of the course, students will be able to:
-
-Mục
-tiêu/CĐ R
-(Objecti ves/Outc omes)	
-
-Mô tả mục tiêu/Chuẩn đầu ra của học phần
-(Description of Objectives/Outcomes)	CĐR được phân bổ cho HP/ Mức độ (I/T/U)
-(Outcomes mapping/ ITU level)
-[1]	[2]	[3]
-M1	Kiến thức:
-Phân biệt được các ngành kỹ thuật nói chung và vai trò của kỹ thuật trong phát triển kinh tế - xã hội Knowledge:
-To distinguish technical disciplines and the role of Engineering in socio-economic development	T
-M2	Trình bày lịch sử phát triển và vai trò của ngành điện tử viễn thông
-Overview the development history and role of the Electronics and Telecommunications	T
-M2.1	Tổng quan về ngành điện tử - viễn thông
-Overview the field of Electronics and Telecommunications	T
-M2.2	Lịch sử, đặc điểm và vai trò của lĩnh vực điện tử
-The history, features and role of Electronics field	T
-M2.3	Lịch sử, đặc điểm và vai trò của lĩnh vực viễn thông
-The history, features and role of Telecommunications field	T
-M3	Phân biệt được chương trình học, kiến thức và kỹ năng cần trang bị, công việc sau khi ra trường
-
-Be able to distinguish the education programs offered by SET, necessary knowledge and soft skills, jobs after graduation	T
-M4	Hiểu và áp dụng các công cụ và phương pháp thiết kế
-kỹ thuật	T
- 
-Mục
-tiêu/CĐ R
-(Objecti ves/Outc omes)	
-
-Mô tả mục tiêu/Chuẩn đầu ra của học phần
-(Description of Objectives/Outcomes)	CĐR được phân bổ cho HP/ Mức độ (I/T/U)
-(Outcomes mapping/ ITU level)
-	Understand and be able to apply tools and engineering
-design methods	
-M4.1	An toàn điện, linh kiện điện tử, thiết bị đo, công cụ phần mềm mô phỏng và thiết kế trong điện tử - viễn thông
-
-Electrical safety, electronic components, measuring equipment, software tools for simulation and design in electronics and telecommunications	T
-M4.2	Quy trình các bước thiết kế kỹ thuật
-Engineering design process	T
-M5	Kỹ năng làm việc nhóm, báo cáo thuyết trình, đạo đức thiết kế, kỹ năng giao tiếp, tư duy sáng tạo và khởi nghiệp, kỹ năng làm thực nghiệm.
-Teamwork, presentation, and interpersonal skills, ethics, creative thinking skill and entrepreneurship, experimental skills.	T
-M6	Trải nghiệm về doanh nghiệp thực tế trong lĩnh vực điện tử viễn thông
-Practical experience in businesses in the electronics and telecommunications	I
-4.	TÀI LIỆU HỌC TẬP (Textbooks and References)
-Giáo trình (Lecture Slides)
-[1]. Bộ slides bài giảng môn nhập môn kỹ thuật (Lecture slides)
-
-Sách tham khảo (References)
-[1]. Charles B. Fleddermann, Martin D. Bradshaw, Introduction to Electrical and Computer Engineering, Prentice Hall, 2003.
-5.	CÁCH ĐÁNH GIÁ HỌC PHẦN (Course Evaluation)
-
-
-Điểm thành phần
-(Grading)	Phương pháp đánh giá cụ thể
-(Evaluation methods)	
-Mô tả
-(Description)	CĐR được đánh giá
-(Evaluated outcomes)	Tỷ trọng
-(Weigh ts)
-[1]	[2]	[3]	[4]	[5]
- 
-A1. Điểm quá trình (*)
-Progress grading	Bài tập lớn, làm theo nhóm
-
-Team-based project work	Làm bài tập lớn, báo cáo viết, thuyết trình, vấn đáp
-
-Completion of project work, final report, presentation and oral exam	M1÷M4.1 M6	40%
-A2. Điểm cuối kỳ
-Final-Exam grading	Bài tập lớn, làm theo nhóm
-
-Team-based project work	Làm bài tập lớn, báo cáo viết, thuyết trình, vấn đáp
-
-Completion of project work, final report, presentation and oral exam	M1÷ M6	60%
-* Điểm quá trình sẽ được điều chỉnh bằng cách cộng thêm điểm chuyên cần. Điểm chuyên cần có giá trị từ –2 đến +1, theo Quy chế Đào tạo đại học hệ chính quy của Trường ĐH Bách khoa Hà Nội.
-Progress scores will be adjusted by adding attendance points. Attendance scores are valid from - 2 to +1, according to the University's Regulation on formal University Training..
-Môn học này sẽ đánh giá dựa trên kết quả thực hiện các bài tập lớn/hoạt động lớp/dự án hàng tuẩn.
-This course will be assessed based on the results of weekly assignments / in-class activities / projects.
-6.	KẾ HOẠCH GIẢNG DẠY (Teaching Plan)
-6.1.	Kế hoạch giảng dạy về lý thuyết và bài tập (Lecture/homework teaching plan):
- 
-
-Tuần
-(Week)	
-Nội dung
-(Contents)	CĐR học phần
-(Course outcomes)	Hoạt động dạy và học
-(Activities)	Bài đánh giá
-(Evaluation methods)
-[1]	[2]	[3]	[4]	[5]
-1	GIỚI THIỆU MỞ ĐẦU
--	Giới thiệu nội dung môn học: Mục tiêu, nội dung môn học.
--	Tài liệu tham khảo, phương pháp học
-
-INTRODUCTION
--	To	introduce	the	course: Course’s objectives and content.
--	To	introduce	References, learning methods		-	Giới thiệu giáo viên, quy định   cách
-chấm điểm đánh giá giữa kỳ và cuối kì và trong cả học kỳ, luật của lớp.
--	Chia nhóm (3- 5) sinh viên
--	Introduce the instructor, Progress evaluation, midterm	and final assessment, class rules
--	Form	groups of		(3-5)
-students	A1
- 
-2	CHƯƠNG 1: GIỚI THIỆU CHUNG VỀ CÁC LĨNH VỰC KỸ THUẬT
--	Giới thiệu Kỹ thuật, phân biệt với Khoa học, Công nghệ
--	Phân biệt kỹ sư với nhà khoa học, các công việc của một kỹ sư
--	Vai trò của Kỹ thuật trong quá trình phát triển kinh tế - xã hội
-
-CHAPTER 1: INTRODUCTION TO ENGINEERING FIELDS
--	To introduce Engineering, distinguished from Science and Technology
--	To distinguish engineers from scientists, the work of an engineer
--	To introduce the role of Technology in socio-economic
-development		-	Giảng bài
--	Sinh viên tìm hiểu bổ sung và thảo luận nhóm
--	Faculty conducts lectures
--	Students perform group discussion and further study	A1
-3	-	Vai trò của STEM trong kỹ thuật
--	Giải quyết vấn đề và tư duy thiết kế trong kỹ thuật
--	Các ngành kỹ thuật: sự phân chia, giao thoa và liên kết các ngành
--	The role of STEM in engineering
--	Problem solving and design thinking in engineering
--	Engineering	disciplines: division,   interference   and
-integration of those disciplines			A1
- 
-4	CHƯƠNG 2: GIỚI THIỆU VỀ NGÀNH KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
-2.1.	Lịch sử hình thành, phát triển và vai trò phát triển ngành ĐTVT
--	Lịch sử phát triển của ngành ĐTVT
--	Vai trò của ngành ĐTVT trong đời sống, kinh tế, xã hội;
--	Vai trò của ĐTVT trong cách mạng công nghiệp lần thứ 4, chuyển đổi số
--	Các chuyên ngành trong ĐTVT
--	Các vấn đề ngành ĐTVT phải giải quyết
-
-CHAPTER 2: INTRODUCTION TO THE FIELD OF ELECTRONIC - TELECOMMUNICATION ENGINEERING
-2.1.	The development history and role of Electronics and Telecommunication Engineering
--	Development history of the Field of Electronics and Telecommunication
+--- Văn bản từ PDF 1 ---
+Nhập môn kỹ thuật Điện tử - Viễn thông -
+Mở đầu: Vai trò của ngành Điện tử - Viễn thông
+trong Kỷ nguyên sốNội dung
+◼ Giới thiệu nội dung môn học
+◼ Kỷ nguyên số
+ Các động lực phát triển
+ Vai trò của các ngành khoa học công nghệ
+◼ Vai trò của ngành Điện tử - Viễn thông trong Kỷ nguyên số
+ Vai trò của ngành Điện tử - Viễn thông
+ Ngành Điện tử - Viễn thông tại Trường ĐHBK Hà Nội
+3Nội dung
+◼ Giới thiệu nội dung môn học
+◼ Kỷ nguyên số
+ Các động lực phát triển
+ Vai trò của các ngành khoa học công nghệ
+◼ Vai trò của ngành Điện tử - Viễn thông trong Kỷ nguyên số
+ Vai trò của ngành Điện tử - Viễn thông
+ Ngành Điện tử - Viễn thông tại Trường ĐHBK Hà Nội
+4Nội dung môn học
+◼ Thế nào là các ngành kỹ thuật (engineering)?
+ Các ngành kỹ thuật giải quyết vấn đề gì?
+ Vai trò của kỹ thuật trong quá trình phát triển xã hội
+ Người kỹ sư cần những kỹ năng gì để giải quyết vấn đề?
+◼ Thế nào là ngành Điện tử - Viễn thông?
+ Ngành Điện tử - Viễn thông giải quyết vấn đề gì?
+ Kỹ sư Điện tử - Viễn thông cần có những kỹ năng gì?
+ Kỹ sư Điện tử - Viễn thông có thể làm ở những đâu?
+5Mục đích môn học
+◼ Giới thiệu về ngành kỹ thuật nói chung (engineering)
+ Quá trình tìm hiểu và khám phá một vấn đề thực tế
+ Quá trình chuyển hóa một vấn đề thực tế thành các yêu cầu kỹ
+thuật
+ Quá trình thiết kế một hệ thống kỹ thuật
+◼ Giới thiệu về ngành Điện tử - Viễn thông
+ Vai trò của ngành Điện tử - Viễn thông
+ Các vấn đề ngành Điện tử - Viễn thông phải giải quyết
+ Quá trình thiết kế một hệ thống ĐT – VT
+◊ Các kiến thức, kỹ năng và công cụ cơ bản mà kỹ sư ĐT – VT cần biết
+6Nội dung môn học
+◼ Tổng quan về ngành Điện tử - Viễn thông
+◼ Khái niệm về các ngành kỹ thuật
+◼ Giới thiệu về ngành Điện tử - Viễn thông
+ Quá trình phát triển và vai trò của Kỹ thuật Điện tử (Electronics Engineering)
+ Quá trình phát triển và vai trò của Kỹ thuật Viễn thông (Communication
+Engineering)
+ Các khái niệm cơ bản trong Điện tử - Viễn thông
+ Cách sử dụng một số công cụ cơ bản (phần cứng, phần mềm)
+◼ Một số bài tập và đồ án
+ Kỹ năng làm việc nhóm
+ Kỹ năng giải quyết vấn đề
+ Kỹ năng trình bày
+7Phương pháp đánh giá
+◼ Bài tập làm việc nhóm: 30%
+◼ Đồ án: 70%
+8Nội dung
+◼ Giới thiệu nội dung môn học
+◼ Kỷ nguyên số
+ Các động lực phát triển
+ Vai trò của các ngành khoa học công nghệ
+◼ Vai trò của ngành Điện tử - Viễn thông trong Kỷ nguyên số
+ Vai trò của ngành Điện tử - Viễn thông
+ Ngành Điện tử - Viễn thông tại Trường ĐHBK Hà Nội
+9Kỷ nguyên số
+◼ Kỷ nguyên số (Digital Era)
+ Kỷ nguyên số được đặc trưng bởi các công nghệ giúp đẩy mạnh và phổ biến vai trò của tri
+thức trong kinh tế và xã hội
+(Georgios Doukikis et al., “Social and Economic Transformation in the Digital Era”)
+Nền kinh tế truyền thống Kinh tế tri thức trong Kỷ nguyên số
+• Dựa trên nguồn vốn • Dựa trên tri thức
+• Tiền → Hàng → Tiền • Tiền → Thông tin/Tri thức → Tiền
+• Có đặc điểm • Có đặc điểm
+• thay đổi chậm, thiếu mềm dẻo, mang tầm địa • Thay đổi nhanh, đổi mới sáng tạo, toàn cầu hóa
+phương
+◼ Các khái niệm liên quan
+ Chuyển dịch số (Digital Transformation)
+ Làn sóng số (Digital Waves)
+ Nền kinh tế tri thức (Knowledge-based Economy)
+ Cách mạng công nghiệp lần thứ 4 (the 4th Industrial Revolution)
+10Các động lực của Kỷ nguyên số
+◼ “Farewell oil, hello tech!” (World Economic Forum, 2016)
+Top 3 công ty có giá trị cao nhất
+2006 2016
+Exxon Mobil $362,5b Apple $571,4b
+General Electric $348,5b $530,6b
+Alphabet
+Microsoft $279,0b Microsoft $445,5b
+11Các động lực trong Kỷ nguyên số (tiếp…)
+◼ Bí quyết để Apple trở thành
+công ty công nghệ hàng đầu?
+ Macintosh
+ iPod/iTunes
+ iPhone/iPad/App Store
+→ Đổi mới sáng tạo, công nghệ
+Apple Macintosh 1984
+12Vai trò của tri thức trong Kỷ nguyên số
+◼ Công nghệ và đổi mới sáng tạo đóng vai trò quyết
+định
+Grab – công ty vận tải hành khách nổi tiếng
+◊Không sở hữu các phương tiện vận chuyển;
+Facebook – mạng xã hội và phương tiện truyền thông
+lớn nhất thế giới
+◊Không tự tạo ra các nội dung;
+Airbnb – công ty lớn trong dịch vụ du lịch, khách sạn
+◊Không sở hữu cơ sở hạ tầng du lịch
+Tesla – công ty làm thay đổi bộ mặt ngành công nghiệp
+ô tô hiện đại
+◊Dựa trên các công nghệ dẫn đầu
+13Vai trò của tri thức trong Kỷ nguyên số (tiếp…)
+◼ Thông tin và tri thức đóng vai trò cốt lõi
+trong các các dịch vụ và hệ thống thông
+minh
+Hiểu và tương tác với môi trường xung quanh
+Các hoạt động có thể thích ứng và tối ưu dựa
+vào hoàn cảnh bên ngoài
+Các quyết định được đưa ra dựa vào hoàn
+cảnh thực tế
+→Tri thức bắt nguồn từ thông tin, thông tin bắt
+nguồn từ dữ liệu
+→Trong kỷ nguyên số, tri thức có giá trị lớn
+14Vai trò của tri thức trong Kỷ nguyên số (tiếp…)
+(Source: The Economist, May 6th 2017)Câu hỏi
+◼Dữ liệu được thu thập thế nào?
+◼Làm sao để tạo ra giá trị gia tăng từ dữ liệu?
+16Dữ liệu từ đâu ra?
+◼ Dữ liệu thô
+Tài liệu, hồ sơ lưu
+trữ
+Truyền thông, web
+Data storage
+Machine log data
+Sensor data
+.v.v.
+(source: Why Big Data Keeps Getting Bigger –https://www.visualcapitalist.com/big-data-keeps-getting-bigger/)
+17Dữ liệu cảm biến
+• Đối tượng ảnh
+• Tốc độ
+• Gia tốc
+• Độ nghiêng
+• Vị trí
+• Dữ liệu động cơ
+• Nhiệt độ
+• Lượng nhiên liệu tiêu tốn
+Xe ô tô tự lái của Google xuất ra gần 1GB dữ liệu cảm biết mỗi giây
+(Source: Betanews)
+18Dữ liệu cảm biến (tiếp…)
+sensor
+• ECG
+• EEG
+• Blood pressure
+• Toxin
+• Toxin
+sensor
+• DNA
+• Protein
+• Glucose
+• Hearing
+sensor
+• Vision
+• Movement
+• Positioning
+Ngay ngày đầu tiên trong cuộc đời một đứa trẻ, lượng dữ
+liệu sinh ra từ các hoạt động của nó đã lớn gấp 70 lần
+sensor
+thông tin trong Thư viện của Quốc hội Hoa Kỳ
+(Source: Smolan and Erwitt, The human face of big data, 2013)Làm thế nào để thu thập dữ liệu và chuyển hóa dữ liệu thành tri thức?
+(Source: Julien Blin)
+20Dữ liệu, thông tin, tri thức, nhận thức
+Đạt được bằng
+• Diễn giải
+• Diễn giải và đánh giá
+Đạt được bằng Nhận thức
+• Khám phá
+• Học hỏi
+• Phân tích thông tin
+Tri thức
+Đạt được bằng
+• Xử lý
+• Xử lý, mô hình hóa, chuyển hóa
+Thông tin
+Đạt được bằng dữ liệu
+• Quan sát
+• Thu thập
+Dữ liệu & cơ cấu chấp hành • Thu thập và truyền dữ liệu
+• Đo đạc
+21Google Traffic
+Thu thập dữ liệu Truyền/lưu trữ Xử lý/phân tích Khám phá/diễn giải Quyết định
+Vệ tinh GPS
+t
+e
+n
+D r e • Tình trạng
+• Thời gian t n I P tích hâ ,n giao thông
+• Vị trí xử lý (tắc/không
+• Tốc độ dữ tắc)
+liệu
+Smart Phone • Vị trí
+Ước lượng tốc độ di
+D
+chuyển
+AI & Machine Learning Engines
+Google Traffic Layer
+D D
+22Giám sát giao thông
+…
+Thu thập ảnh thời gian thực Nhận dạng phương tiện
+Hệ thống camera giám sát
+CSDL Nhận dạng
+Nhận dạng đối tượng
+Phát hiện bất thường
+Chủ nhân
+Quyết địnhGiám sát giao thông (tiếp…)
+◼ Tự động nhận biết các trường hợp vi phạm giao
+thông
+Thu thập dữ liệu
+Thu thập video tại các nút giao thông
+→ dữ liệu thô
+Nhận dạng lưu lượng bất thường từ hàng ngàn ảnh
+thời gian thực
+Tìm ra đối tượng vi phạm giao thông từ hàng trăm
+Xử lý/
+phương tiện giao thông
+biến đổi/
+Nhận dạng biển số phân tích
+→ thông tin
+Tìm chủ nhân theo biển số xe (địa chỉ, số giấy phép lái
+xe)
+Quyết định mức độ vi phạm
+Tri thức/
+Tìm trong cơ sở dữ liệu để tìm hiểu lịch sử vi phạm quyết định
+Tự động ra biên bản và mức phạtCác khái niệm công nghệ
+Nhận thức
+Khoa học dữ liệu
+• Trí tuệ nhân tạo
+• Học sâu
+• Học máy
+• Khai phá dữ liệu
+Tri thức • Xác suất và thống kê
+Dữ liệu lớn
+Thông tin
+Điện toán
+5G
+đám
+mây/Điện
+Hệ kết nối toán
+Internet vạn vật
+Dữ liệu & cơ cấu chấp hành không gian sương mù
+số - thực thể
+(CPS)
+25Các yêu cầu mới trong kỷ nguyên thông tin
+◼ Doanh nghiệp/tổ chức cần đổi mới nhanh hơn
+Đổi mới về công nghệ
+Đổi mới về mô hình kinh doanh
+◊Mô hình kinh doanh mới phải phản ánh các thay đổi trong giá trị khách hàng
+Có khả năng tận dụng các lợi thế để đổi mới và mở rộng quy mô
+toàn cầuDữ liệu được thu thập thế nào? Làm sao để truyền, lưu trữ
+và xử lý dữ liệu?
+Thông tin
+Điện toán
+5G
+đám
+mây/Điện
+Hệ kết nối toán
+Internet vạn vật
+Dữ liệu & cơ cấu chấp hành không gian sương mù
+số - thực thể
+(CPS)
+27Cyber Physical Systems (Hệ kết nối không gian số - thực thể)
+◼ Mỗi thực thể vật lý đều có một phiên bản số trong không gian ảo
+ Các thông tin về hoạt động của thực thể vật lý đều được lưu trữ, truyền
+và xử lý
+Thế giới vật lý Thế giới ảo
+28Internet of Things (Internet vạn vật)
+◼ Hệ thống kết nối các hệ thống
+không gian mạng thực – ảo →
+Internet of Things (IoT)
+Cung cấp các môi trường kết nối
+thống nhất để hội tụ thế giới thực
+và ảo
+Tạo ra các dịch vụ tiên tiến bằng
+cách kết nối mọi thực thể dựa trên
+cơ sở hạ tầng công nghệ thông tin
+và truyền thông
+29Điện toán đám mây, biên, sương mù
+◼ Điện toán đám mây/biên/sương mù và IoT có sự liên hệ chặt chẽ với nhau
+Cung cấp cơ sở hạ tầng lưu trữ, tính toán và phân tích dữ liệu lớn
+Fog node
+Edge node
+Edge node
+Fog node
+Cloud
+Fog node
+Điện toán sương mù
+Điện toán biên
+Điện toán đám mây
+30Làm sao đề chuyển hóa thông tin thành tri thức?
+Nhận thức
+Khoa học dữ liệu
+• Trí tuệ nhân tạo
+• Học sâu
+• Học máy
+• Khai phá dữ liệu
+Tri thức • Xác suất và thống kê
+Dữ liệu lớn
+Thông tin
+31Big Data (Dữ liệu lớn)
+◼ Các tập dữ liệu
+Cực lớn
+Cấu trúc phức tạp
+Thay đổi liên tục
+→ Không áp dụng
+được các phương pháp
+xử lý dữ liệu truyền
+Distributed Data Cleaning
+Data File System Data
+Management Data Security
+thống Manipulation Parallel Storage
+Computing ……
+Extract Semi-structured/unstructured data extraction ……
+32Data Science (Khoa học dữ liệu)
+◼ Khoa học dữ liệu = Toán + CNTT + Ứng dụng
+S
+o
+u
+Publication Directed Actions to Human Directed Actions to Machines cr
+e
+:
+“
+Mobile Web O
+Access Browser Custom hand help FTP and SFTP MQ, JMS, Sockers v
+Devices Services e
+r
+v
+i
+e
+w
+Result
+Visualization Tag Cloud Clustergram History flow Spatial information flow o
+f
+Communication
+D
+a
+t
+a
+S
+c
+i
+e
+Machine Learning & n
+c
+Data Analytics Data Analytics Statistics e
+”
+Data Mining ,
+H
+o
+T
+u
+B
+a
+o
+33Tại sao lại thời điểm này?
+◼ Trí tuệ nhân tạo/học máy:
+ Ra đời khoảng 1950
+ Trong khoảng thời gian dài AI không có những
+bước tiến đáng kể
+Gordon Moore
+• Đồng sáng lập Intel
+• Doanh nhân
+• Kỹ sư
+→ Mật độ transistor trên
+(Nguồn: Moore’s Law and How IT is Finally Operating Outside of the Box )
+chip tăng gấp đôi sau 18
+tháng
+34Tại sao lại thời điểm này? (tiếp…)
+35Tại sao lại thời điểm này? (tiếp…)
+◼ Kênh truyền → truyền dữ liệu
+ Dung lượng tăng nhanh
+ Giá thành giảm
+◼ Bộ nhớ → lưu trữ dữ liệu
+ Dung lượng tăng nhanh
+ Giá thành giảm
+◼ Khả năng tính toán → xử lý dữ liệu
+ Tốc độ CPU tăng theo định luật Moore
+→ Các thành tựu đạt được trong ngành Điện tử - Viễn thông
+36Nền tảng công nghệ và ứng dụng trong kỷ nguyên thông tin
+Nền tảng công nghệ Ứng dụng
+Y tế
+Hàng không vũ trụ
+Trí tuệ nhân tạo Xử lý và quản lý dữ liệu lớn
+Nông nghiệp/
+Thủy sản
+Điện toán
+Mạng và truyền đám mây, Công nghệ An ninh, an
+Thiết kế & sản xuất
+thông điện toán phần mềm toàn thông tin
+sương mù
+Tài chính,
+marketing/bán hàng
+Công nghệ Điện tử và hệ Tự động hóa
+Cảm biến
+Nano thống nhúng và cơ điện tử Chính quyền (eGov,
+SmartCity)
+37Đặc điểm các ngành công nghệ trong Kỷ nguyên số
+◼ Liên ngành và đa ngành
+◼ Không còn ranh giới rõ rệt giữa CNTT, Điện tử - Viễn thông, Điện,
+Cơ khí
+c
+ọ
+h
+Nhận thức n
+á
+o
+T
+T
+T
+N
+Tri thức
+C
+T
+Thông tin V
+T- H
+Đ Đ
+T
+í
+- h
+n k ý
+Dữ liệu & cơ cấu chấp hành ệ
+i Đ ơ C t ậ V
+l t
+ậ V
+u
+ệ il
+38Nội dung
+◼ Kỷ nguyên số
+ Các động lực phát triển
+ Vai trò của các ngành khoa học công nghệ
+◼ Vai trò của ngành Điện tử - Viễn thông trong Kỷ nguyên số
+ Vai trò của ngành Điện tử - Viễn thông
+ Ngành Điện tử - Viễn thông tại Trường ĐHBK Hà Nội
+39Vai trò của ngành Điện tử - Viễn thông
+◼ Vai trò quan trọng trong
+cách mạng công nghiệp
+4.0
+Công nghệ
+Điện
+Là trung gian và đóng vai thông tin
+Điện tử -
+trò trung tâm của nhiều
+Viễn thông
+ngành mũi nhọn
+Cơ điện tử
+Cơ khí
+40Vai trò của ngành Điện tử - Viễn thông (tiếp…)
+◼ Công nghệ di động thế hệ thứ 5 (5G Technology)
+Băng thông rộng, tốc độ truyền cao
+Thời gian đáp ứng nhanh
+Kinh tế
+Tiết kiệm năng lượng
+Kết nối số lượng cực lớn các thiết bị đầu cuối
+→ Nền tảng hạ tầng đa dụng, thích hợp với IoT
+41Vai trò của ngành Điện tử - Viễn thông (tiếp…) EP*
+B T( m re E * *
+◼ Hệ thống nhúng C
+gnikar *
+epsuS
+C
+noitcar
+oC
+noissi ecnamrof enign
+S
+ytefaS
+etsyS
+negilletnI
+rtno
+na
+oisn rtno ortn dna etsy
+I(
+m
+rT
+t
+o d n o l m T a
+◊Hệ thống nhúng nền tảng cho các hệ thống tự động hóa, l )l s )S sn
+* p
+o
+hệ thống công nghiệp, thiết bị dân dụng G r
+t
+e a
+a t
+◊Phần mềm nhúng chiếm 90% toàn bộ phần mềm trên
+r oi
+B n
+o
+x
+thực tế
+*
+◼ Vi điện tử và IC
+S
+t
+e
+e
+r
+◊ IC đóng vai trò quan trọng ni
+g
+C
+◊ Năm 2018, doanh thu của ngành công nghiệp thiết kế và o
+n
+t
+r
+sản xuất chip đạt 463 tỷ USD; tỷ lê tăng trưởng hàng o
+*l Q*
+s
+E u C
+năm 12,4% n la a
+et yti ib
+r n
+◼ Thiết bị đầu cuối thông minh
+at
+A
+i
+n i
+r
+m*
+e D
+n
+Thiết bị di động t gi
+i *
+t
+a
+L
+l
+C gi
+Thiết bị IoT
+a h
+r t
+R
+ni
+a g
+d
+i
+o
+42Ngành Điện tử - Viễn thông tại ĐHBK Hà Nội
+Nền tảng công nghệ Ứng dụng
+Y tế
+Hàng không vũ trụ
+Trí tuệ nhân tạo Xử lý và quản lý dữ liệu lớn
+Nông nghiệp/
+Thủy sản
+Điện toán
+Mạng và truyền đám mây, Công nghệ An ninh, an
+Thiết kế & sản xuất
+thông điện toán phần mềm toàn thông tin
+sương mù
+Tài chính,
+marketing/bán hàng
+Công nghệ Điện tử và hệ Tự động hóa
+Cảm biến
+Nano thống nhúng và cơ điện tử Chính quyền (eGov,
+SmartCity)
+43Ngành Điện tử - Viễn thông tại ĐHBK Hà Nội (tiếp…)
+Nền tảng công nghệ
+• Bộ môn Điện tử và Kỹ thuật máy
+Trí tuệ nhân tạo Xử lý và quản lý dữ liệu lớn tính
+• Bộ môn Mạch và Xử lý tín hiệu
+Điện toán
+Viện Đào tạo quốc tề về Khoa học vật
+Mạng và An ninh, an
+đám mây, Công nghệ
+truyền toàn thông liệu (ITIMS)
+điện toán phần mềm
+thông tin
+• Viện trưởng: PGS. TS. Nguyễn Phúc
+sương mù
+Dương
+Điện tử và Tự động
+Công nghệ
+hệ thống hóa và cơ Cảm biến
+Nano
+nhúng điện tử
+44Ngành Điện tử - Viễn thông tại ĐHBK Hà Nội (tiếp…)
+Nền tảng công nghệ
+Xử lý và quản lý dữ liệu
+Trí tuệ nhân tạo
+lớn
+• Bộ môn Kỹ thuật thông tin
+Điện toán • Bộ môn Hệ thống viễn thông
+An ninh,
+Mạng và đám mây, Công nghệ
+an toàn
+truyền thông điện toán phần mềm
+thông tin
+sương mù
+Điện tử và Tự động
+Công nghệ Mạng cảm
+hệ thống hóa và cơ
+Nano biến
+nhúng điện tử
+45Ngành Điện tử - Viễn thông tại ĐHBK Hà Nội (tiếp…)
+Ứng dụng
+Y tế
+Bộ môn Kỹ thuật Điện tử Hàng không – Vũ trụ
+Bộ môn Kỹ thuật Y sinh
+Hàng không vũ trụ
+Nông nghiệp/
+Thủy sản
+Thiết kế & sản xuất
+Tài chính,
+marketing/bán hàng
+Chính quyền (eGov,
+SmartCity)
+46Ngành Điện tử - Viễn thông tại ĐHBK Hà Nội (tiếp…)
+Trung tâm nghiên cứu và phát triển Điện
+tử - Viễn thông
+Xử lý và quản lý dữ
+Trí tuệ nhân tạo • 09 PTN nghiên cứu
+liệu lớn
+• 40 nhà khoa học
+Điện
+• 200 sinh viên
+toán
+đám Công
+Mạng và An ninh,
+mây, nghệ
+truyền an toàn
+điện phần
+thông thông tin
+toán mềm Trung tâm thực hành Điện tử - Viễn thông
+sương
+mù
+Điện tử Tự động
+Công
+và hệ hóa và Cảm
+nghệ
+thống cơ điện biến
+Nano
+nhúng tử
+47Bối cảnh về nhu cầu nhân lực ĐT – VT & CNTT
+◼ Đặc điểm mô hình đào tạo nhân lực ĐT – VT & CNTT
+Trước 1950: hướng đến đào tạo công nghệ cụ thể, đã được chuẩn
+hóa; tạo điều kiện cho kỹ sư ra trường khả năng làm việc nhanh
+chóng trong môi trường công nghiệp
+1950 – 1995: hướng tới đào tạo khoa học công nghệ, cho phép kỹ
+sư ra trường khả năng nghiên cứu, phân tích, nắm được các nguyên
+lý hệ thống
+1995 – nay: hướng tới trang bị kỹ năng làm việc nhóm, tương tác,
+hòa nhập, kỹ năng thiết kế hệ thống, kỹ năng phân tích và khả
+năng học tập suốt đờiYêu cầu và mục tiêu đào tạo kỹ sư ĐT – VT thế kỷ 21
+◼ Kiến thức kỹ thuật vững vàng
+◼ Kỹ năng đổi mới sáng tạo
+◼ Tinh thần kinh doanh
+◼ Kỹ năng mềm trong giao tiếp và thuyết phục đối tác
+◼ Khả năng đánh giá, phân tích sự ảnh hưởng của các yếu tố phi kỹ thuật (hiệu
+quả kinh tế, đạo đức, tác động xã hội, môi trường) lên các giải pháp kỹ thuật
+◼ Kỹ năng lãnh đạo và làm việc nhóm hiệu quả
+◼ Kỹ năng học tập suốt đời
+◼ Tiếng Anh hoặc dùng một ngoại ngữ lưu loát
+→Mục tiêu: có khả năng cạnh tranh trong thị trường nhân lực toàn cầu; đáp ứng
+các yêu cầu nhân lực cho cách mạng công nghiệp 4.0
+49Chương trình đào tạo ĐT - VT
+Electrical Eng., Telecom Eng. Năm Năm
+(University of Wollongong, 3 4
+• Bachelor degree (UoW, HUST)
+Australia)
+Năm
+4
+2 programs in Telecom.
+• Master/Eng. degree (CNAM)
+& Networking Chương trình thạc
+sỹ (1 năm) • Master degree (HUST)
+(CNAM, France)
+8 programs in Electrical Eng.
+• Master/Eng. degree (Telecom ParisTech)
+& Computer Science
+Chương trình kỹ sư/thạc sỹ (2 năm)
+• Master degree (HUST)
+(Telecom ParisTech, France)
+Electrical Engineering
+Chương trình tích hợp thạc sỹ - tiến sỹ (~5 • PhD degree (KAIST)
+(KAIST, Korea) năm) • Co-supervisor (HUST)
+Electrical Engineering Chương trình • PhD degree (Agder)
+TS (3 - 4 năm) • Co-supervisor (HUST)
+(Agder University, Norway)
+Năm Năm Năm Chương trình thạc sỹ (1,5 Chương trình
+Năm 1
+2 3 4 năm) TS (3 - 4 năm)
+ĐTVT
+(ĐHBK HN)
+Chương trình cử nhân (4 năm)
+Chương trình Chương trình Th.S 50
+KS (1 năm) (1 năm)Bối cảnh về nhu cầu nhân lực ĐT – VT & CNTT
+◼ Tại Việt Nam
+Công ty tuyển dụng nhân lực ĐT – VT & CNTT ngày càng đa dạng:
+◊Doanh nghiệp lớn >< doanh nghiệp nhỏ
+◊Doanh nghiệp khai thác >< doanh nghiệp nghiên cứu phát triển
+◊Doanh nghiệp trong nước >< doanh nghiệp nước ngoài
+◊Doanh nghiệp nhà nước >< doanh nghiệp tư nhân
+Yêu cầu ngày càng tăng trong lĩnh vực nghiên cứu – phát triển
+Nhu cầu đi học nước ngoài hoặc làm việc trong các viện nghiên
+cứu, trường trong và ngoài nước
+51Nhu cầu nhân lực ngành ĐT – VT tại Việt Nam
+◼ Số liệu thống kê kỹ sư ĐT – VT, ĐHBK Hà Nội (2017)
+Khác 0% Khác 2%
+Tổ chức phi chính phủ 0%
+Hành chính nhà nước 1% Giảng dạy, nghiên cứu 1%
+Viện nghiên cứu 4%
+Trường trung cấp, dạy nghề 0% Kinh doanh, bán hàng 4%
+Trường đại học, cao đẳng 2% Quản lý sản xuất/ sản phẩm 6%
+Công ty liên doanh 2%
+Công ty ở nước ngoài 5% Tư vấn, quản lý dự án 1%
+Công ty nước ngoài tại VN 37%
+Công ty nhà nước 10% Kỹ sư lắp đặt, vận hành, bảo trì 18%
+Công ty tư nhân trong nước 33%
+Kỹ sư thiết kế, phát triển 68%
+Công ty tự lập/ tự làm 9%
+0 10 20 30 40 50 60 70 80 0 20 40 60 80 100 120 140
+Công ty tự lập/ tự làm 9% Kỹ sư thiết kế, phát triển
+68%
+Công ty tư nhân trong nước 33%
+Kỹ sư lắp đặt, vận hành,
+Công ty nhà nước 10%
+bảo trì
+Công ty nước ngoài tại VN 37% 18%
+Công ty ở nước ngoài 5% Tư vấn, quản lý dự án
+1%
+Công ty liên doanh 2%
+Quản lý sản xuất/ sản phẩm
+Trường đại học, cao đẳng 2% 6%
+Trường trung cấp, dạy nghề 0% Kinh doanh, bán hang
+4%
+Viện nghiên cứu 4%
+Giảng dạy, nghiên cứu
+Hành chính nhà nước 1% 1%
+Tổ chức phi chính phủ 0% Khác 2%
+Khác 0%
+52Hiểu, thiết kế, thực hiện, vận hành (CDIO)
+◼ Người kỹ sư cần có 4 kỹ năng:
+ Hiểu (Conceiving): Hiểu vấn đề cần phải giải quyết
+trong chuyên ngành
+Đồ án tốt nghiệp
+ Thiết kế (Designing): Đưa ra giải pháp kỹ thuật cho
+vấn đề cần giải quyết
+ Thực hiện (Implementing): Thực hiện và kiểm
+nghiệm giải pháp kỹ thuật vừa thiết kế
+ Vận hành (Operating): vận hành, tối ưu, cải thiện
+cũng như đưa ra vòng đời cho sản phẩm
+→Trong CDIO, các hoạt động học tập có tác động kép
+đến việc đào sâu kiến thức kỹ thuật trong khi phát
+triển được các kỹ năng thiết kế, phát triển một sản Khoa học Nhập môn
+cơ bản
+phẩm kỹ thuậtKết luận
+◼ Ngành Điện tử - Viễn thông là một trong những ngành có vai
+trò quan trọng trong nền Kinh tế số
+◼ Bên cạnh kiến thức kỹ thuật vững vàng, người kỹ sư ĐT – VT
+cần
+Kỹ năng đổi mới sáng tạo, tinh thần kinh doanh
+Liên ngành
+Ngoại ngữ & kỹ năng mềm
+Kỹ năng học tập suốt đời
+◼ Viện ĐT – VT là môi trường lý tưởng để các em phát triển
+kiến thức và kỹ năng
+54Xin cám ơn!
+55
+--- Văn bản từ PDF 2 ---
+Introduction to Electronics and Telecommunication Engineering -
+Chapter 1: What is Engineering?Contents
+◼ What is engineering?
+◼ Who is an engineer? What do engineers do?
+◼ Engineering problem solving
+◼ Types of engineers
+3What is engineering?
+◼ Definition by The Accreditation Board for Engineering and Technology (ABET)
+ “The profession in which a knowledge of the mathematical and natural sciences gained by
+study, experience, and practice is applied with judgment to develop ways to utilize,
+economically, the materials and forces of nature for the benefit of mankind”
+→ Engineering is problem solving under certain constraints to build useful products/services
+Research, design, build, develop
+Constraints
+(time, money, environment, distance, etc.)
+4What is engineering?
+Engineering /ˌen·dʒəˈnɪər·ɪŋ/ : the study of
+using scientific principles to design and build machines, structures, and
+other things, including bridges, roads, vehicles, and buildings.
+=> Kỹ thuật: nghiên cứu sử dụng các nguyên lý khoa học để thiết kế và chế tạo
+máy móc, kết cấu và những thứ khác, bao gồm cầu, đường, xe cộ và tòa nhà.
+The work of an engineer, for example, designing or building machines,
+electrical equipment, roads, etc. using scientific principles.
+=> Công việc của một kỹ sư, ví dụ, thiết kế hoặc chế tạo máy móc, thiết bị
+điện, đường sá, v.v. bằng cách sử dụng các nguyên lý khoa học
+5
+Source: https://dictionary.cambridge.org/What is engineering?
+The future is built largely by engineers and designers with the
+talent and skill to take an idea and turn it into the products
+and services that enhance life for all of us.
+https://www.engineering.com/
+From Software Development to Software Engineering
+https://www.cognizant.com/
+https://studylink.org/vn/engineering-nganh-ki-thuat-la-gi-.html
+6What is an engineer?
+The work of an engineer, for example, designing or building
+machines, electrical equipment, roads, etc. using scientific
+principles => Công việc của một kỹ sư, ví dụ, thiết kế hoặc chế
+tạo máy móc, thiết bị điện, đường sá, v.v. bằng cách sử dụng
+các nguyên lý khoa học Source: https://dictionary.cambridge.org/
+7
+Source: https://studylink.org/vn/engineering-nganh-ki-thuat-la-gi-.htmlEngineering Misconceptions
+◼ What is an engineer?
+ What kind of work do
+engineers do?
+Source: http://www.mos.org/eie/pdf/research/Pipeline_EiE_evaluation_0405_final.pdf
+8Engineering Misconception (cont…)
+Electrician Carpenter Auto mechanic
+Plumber
+Train Operator Building supervisor Computer technician
+9Engineering Misconception (cont…)
+Electrician Carpenter Auto mechanic
+Plumber
+Train Operator Building supervisor Computer technician
+10Scientist – Engineer – Technologist – Technician/Artisan
+◼ Scientist, engineer, technologist and technician play different
+roles in a technology team
+◼ Science and scientist
+ Investigation, understanding, and discovery of nature, its composition,
+and its behavior (i.e., “laws of nature”)
+ Ask why
+ Build to learn (experiments, tools etc.)
+◼ Engineering and engineer
+ Manipulating the forces of nature to advance humanity
+ Ask how
+ Learn to build (products and services useful for humans)
+11Scientist – Engineer – Technologist – Technician/Artisan
+12
+Source: http://tojet.net/articles/v11i2/11222.pdfScientist – Engineer – Technologist – Technician/Artisan (cont…)
+◼ Science vs. Engineering
+Engineering Design
+Scientific Inquiry
+Abstract Model Abstract Model
+= theory = design concept
+Science
+design
+Compare
+System Theory
+Concret Description Concret Description
+= data = specification
 Engineering
--	The role of the Electronics and Telecommunication Engineering Sector in life,
-economy and society.
--	The role of the Electronics and Telecommunication Engineering in the 4th
-industrial revolution and digital transformation
--	The problems to be solved by the Electronics and
-Telecommunication Engineering		-	Giảng bài
--	Sinh viên tìm hiểu bổ sung và thảo luận nhóm
--	Sinh viên thực hành kỹ năng làm việc nhóm và thuyết trình trên lớp
--	Sinh viên chơi 1 trò chơi rèn kỹ năng thuyết trình
--	Faculty conducts lectures
--	Students perform group discussion and further study
--	Students practice teamwork and presentation skills
--	Students play a	game	to practice presentation skills	A1
- 
-5	2.2. Giới thiệu về lĩnh vực Viễn thông
--	Sơ lược lịch sử phát triển lĩnh vực Viễn thông
--	Đặc điểm của hệ thống và mạng viễn thông
--	Các vấn đề kỹ thuật chính mà ngành Viễn thông giải quyết
-2.2. Introduction to the field of Telecommunications
--	Brief history of development of the telecommunications field
--	Characteristics of telecommunications systems and networks
--	Main technical issues to be solved by the telecommunications
-engineering			A1
- 
-6	2.3. Giới thiệu về lĩnh vực Điện tử
--	Kỹ thuật máy tính
--	Giới thiệu khái niệm mạch điện tử, linh kiện điện tử, vi mạch và định luật Moore
--	Khái niệm về máy tính, các loại máy tính: máy tính cá nhân, máy chủ, máy tính nhúng
--	Giới thiệu các lĩnh vực ứng dụng của mạch điện tử và máy tính nhúng: thiết bị điện tử dân dụng, điện tử y sinh, điện tử hàng không vũ trụ, điện tử trong ô tô
--	Mô hình phân lớp để nghiên cứu một thiết bị, hệ thống điện tử: lớp phần cứng, lớp phần mềm hệ thống, lớp phần mềm ứng dụng
-2.3. Introduction to the field of Electronics and Computer Engineering
--	Introduction to the concepts of electronic circuits, electronic
-components, circuits and Moore's law
--	The concept of computers, types of computers: personal computers, servers, embedded
-computers
--	Introduction to the applications of electronic circuits and embedded computers: civil
-electronics, biomedical electronics, aerospace electronics, automotive electronics
--	The architecture model for studying an electronic system
-or device: hardware layer, system software layer, application software layer			A1
- 
-7	2.4. Giới thiệu về Viện Điện tử - Viễn thông và các chương trình đào tạo của Viện ĐTVT
--	Lịch sử hình thành và phát triển của Viện ĐTVT
--	Chương trình đào tạo cử nhân
--	Chương trình đào tạo kỹ sư
--	Chương trình đào tạo tích hợp Cử nhân – Thạc sĩ
-2.4. Introduction to the School of Electronics and Telecommunications and the training programs offered by the School
--	Development History of the School
--	Bachelor training program
--	Engineers training program
--	Integrated Bachelor - Master
-training program			A1
- 
-8	2.5.	Giới thiệu về ngành học ĐTVT
--	Kiến thức mà cử nhân/kỹ sư ĐTVT cần đạt được và liên quan đến các môn học trong CTĐT
--	Kỹ năng mà cử nhân/kỹ sư ĐTVT cần đạt được và liên quan đến các môn học trong CTĐT
--	Hoạt động tham gia nghiên cứu tại Lab
--	Các loại hình công việc mà cử nhân/kỹ sư ĐTVT tham gia
--	Các công ty, doanh nghiệp lớn trong lĩnh vực ĐTVT tại VN và thế giới
--	Số liệu thống kê về nhu cầu nhân lực trình độ cao của lĩnh vực ĐTVT
-2.5. Introduction to the field of Electronics and Telecommunications Engineering
--	The knowledge that a Bachelor / Engineer needs to obtain and the relationship among the
-subjects in the whole curriculum
--	Skills that a Bachelor / Engineer needs to achieve and its relationship to subjects in the
-whole curriculum
--	Research activities in the laboratories of the School
--	Types of work that a graduate in Electronics	and
-Telecommunications Engineering can participate.
--	Large companies and enterprises in the Telecom sector in Vietnam and the world
--	- Statistics on the demand for highly qualified human resources in the Electronics
-and Telecommunication sector			A1
- 
-9	THỰC TẬP NHẬN THỨC TẠI DOANH NGHIỆP LĨNH VỰC ĐTVT
--	Đi tham quan tìm hiểu thực tế môi trường tại một doanh nghiệp ngành ĐTVT
--	Giảng viên có thể chủ động liên hệ doanh nghiệp/công ty hoặc Viện sẽ liên hệ và bố trí.
--	Giảng viên dẫn lớp đi đến điểm thực tập
--	Viết báo cáo thu hoạch
-AWARENESS PRACTICE IN ENTERPRISES IN THE ELECTRONICS AND TELECOMMUNITIONS FIELD
--	Field trip to learn the real environment in an enterprise in the electronics and
-telecommunications field
--	Lecturers can actively contact business / company or the School contacts and arranges
-the field trip.
--	The lecturers lead the class to the practice site
--	Students write a harvest report		-	A1
- 
-10	CHƯƠNG 3: CÔNG CỤ VÀ CÁC PHƯƠNG PHÁP THIẾT KẾ KỸ THUẬT
-3.1.	Phát triển các Kỹ năng: Làm việc nhóm, viết báo cáo và trình bày, đạo đức, sáng tạo và khởi nghiệp
--	Kỹ năng làm việc nhóm
--	Viết báo cáo và trình bày, thuyết trình
--	Kỹ năng giao tiếp qua email và điện thoại
--	Đạo đức trong thiết kế
--	Tư duy sáng tạo và khởi nghiệp
-CHAPTER 3: ENGINEERING DESIGNING TOOLS AND METHODS
-3.1.	Skills Development: Team work skill, report writing and presentation skill, ethics, creative thinking skill and entrepreneurship skill
--	Teamwork skill
--	Writing reports and presentations
--	Communication skills via email and phone
--	Ethics in design
--	Creative thinking and entrepreneurship skill			
- 
-11	3.2. Các công cụ thiết kế: an toàn điện, linh kiện điện tử, phần mềm mô phỏng, thiết bị đo kiểm, thiết kế phần cứng, lập trình phần mềm
--	An toàn điện: Thủ pháp an toàn điện cơ bản, bảo vệ chống tĩnh điện EOS/ESD, tương thích điện từ
--	Linh kiện điện tử và mạch điện tử
--	Các công cụ phần mềm: phần mềm mô phỏng mạch điện tử, phần mềm mô phỏng mô hình và hệ thống, phần mềm thiết kế mạch điện tử và các phần mềm khác có liên quan
--	Thiết bị đo cơ bản: đồng hồ vạn năng, Ô-xi-lô, Nguồn một chiều, Máy phát hàm, …
-
-3.2. Design tools: electrical safety, electronic components, simulation software, testing equipment, hardware design, software programming
--	Electrical safety: Basic electrical safety procedure, EOS / ESD protection against static electricity, compatible with electromagnetic
--	Electronic components and electronic circuits
--	Software tools: electronic circuit simulation software, model and system simulation software, electronic circuit design software and other related software
--	Basic measuring equipment: multimeter, oscilloscope, DC power, waveform generator, ...		-	A1
- 
-12	3.3. Quy trình thiết kế kỹ thuật: 9 bước thiết kế
--	Xác định nhu cầu sản phẩm
--	Tạo chỉ tiêu kỹ thuật
--	Bước lập kế hoạch
--	Bước thực hiện sơ đồ khối
-
-3.3. Engineering design process: 9 design steps
--	Determine needs
--	Create technical specifications
--	Develop a Plan
--	Perform block design		-	A2
-13	-	Thiết kế từng khối
--	Lựa chọn phương án tối ưu
--	Kiểm tra và đánh giá
--	Chế tạo/sản xuất
--	Đưa sản phẩm ra thị trường
--	Design each block
--	Select best alternatives
--	Test
--	Manufacture
--	Deliver		-	A2
- 
-14 +15	CHƯƠNG 4: TRIỂN KHAI, ĐÁNH GIÁ BÀI TẬP LỚN THIẾT KẾ (TEAM PROJECT)
-(Triển khai thực hiện: Tuần 4 – 13, đánh giá tuần 14-15)
--	Đề xuất thiết kế một sản phẩm ĐTVT
--	Đề tài chọn danh sách gợi ý cho trước hoặc có thể đề xuất
--	Áp dụng các kỹ năng, công cụ và quy trình thiết kế đã học ở chương 3
--	Hoàn thành thiết kế, báo cáo và trình bày
-CHAPTER 4: DEVELOPMENT AND ASSESSMENT OF TEAM PROJECTS
-(Implementation: Week 4-13,
-Evaluation: week 14-15)
--	Students propose to design an electronics- telecommunications products
--	Ideas can be selected from a predefined list of suggestions or can be proposed by students
--	Apply the design skills, use tools and processes learned in Chapter 3
--	Complete the proposed
-design, write a report and make final presentation		-	A2
-6.2.	Kế hoạch giảng dạy thí nghiệm (Lab teaching plan)
-Sinh viên sẽ làm tiểu luận theo nhóm từ 4 đến 5 sinh viên để giúp sinh viên thực hành kỹ năng làm việc nhóm và các kỹ năng giải quyết vấn đề kỹ thuật. Sinh viên được yêu cầu thiết kế một sản phẩm phần mềm hoặc phần cứng (mạch điện tử) đơn giản ứng dụng được trong đời sống và áp dụng quy trình phân tích 9 bước thiết kế kỹ thuật.
-Bên cạnh tiểu luận, sinh viên còn được đi thực tập nhận thức tại một số đơn vị hoạt động trong lĩnh vực điện tử viễn thông.
- 
-Students will do group-based essays of 4 to 5 students to help them practice teamwork skills and technical problem solving skills. Students are asked to design a simple software or hardware product (electronic circuit) that applies to life and to apply a 9-step engineering design process.
-In addition to the essay, students are also go in a field trip to some businesses active in the field of electronics and telecommunications.
-7.	QUY ĐỊNH CỦA HỌC PHẦN (Course Requirement)
-(Các quy định của học phần nếu có)/ Course Requirement if available
-8.	NGÀY PHÊ DUYỆT (Approved Date): …………………..
-
-Chủ tịch Hội đồng
-Chairmain	Nhóm xây dựng đề cương
-Syllabus development team
-
-
-
-Nguyễn Văn Khang
-
-
-9.	QUÁ TRÌNH CẬP NHẬT (Update Reference)
-
-
-Lần cập nhật
-Update	
-Nội dung điều chỉnh
-Adjusted content	Ngày tháng
-được phê duyệt
-Approved date	Áp dụng từ kỳ/khóa
-Applied to semester/co- hort	
-Ghi chú
-Note
-1	Bổ sung các nội dung kỹ năng mềm, gồm: Kỹ năng làm việc nhóm, kỹ năng thuyết trình, kỹ năng làm báo cáo, kỹ năng sử dụng Gannt chart để quản lý kế hoạch.
-Supplementing content of soft skills, including teamwork skills, presentation skills, reporting skills, skills to use Gannt chart to manage plans.		K59/cohort K59	
-
-10.	NỘI DUNG CẬP NHẬT SO VỚI ĐỀ CƯƠNG TRƯỚC ĐÓ/ UPDATED CONTENTS COMPARED TO THE PREVIOUS SYLLABUS
--	Nội dung chuyên môn:/Technical content
-+ Bỏ nội dung …./Concent removal ….
-+ Bổ sung nội dung cho sinh viên đọc báo khoa học/ Additional content for students to read scientific research papers
--	Phương pháp giảng dạy:/Pedagogy methods
-+ Bổ sung thêm phương pháp giảng dạy làm việc nhóm, thuyết trình
- 
-+ Additional teaching methods for in-class group discussion and group presentations
--	Bài thí nghiệm: không / Experiment: no
-Điện tử viễn thông là gì? 4 công việc hấp dẫn khi ra trường
-Dài hơn một thế kỷ trước, cuộc cách mạng công nghiệp đã mở ra kỷ nguyên của sự tiến bộ và phát triển. Và trong những năm gần đây, sự phát triển nhanh chóng của công nghệ thông tin và truyền thông đã mang lại những tiến bộ đáng kinh ngạc.
-
-Một lĩnh vực công nghệ cụ thể đã nổi lên từ sự tiến hóa này, đó là “điện tử viễn thông”. Vậy điện tử viễn thông là gì, học điện tử viễn thông ra làm gì?
-
-Điện tử viễn thông là gì? Tìm hiểu ngay cùng Trawise
-Điện tử viễn thông là gì? Tìm hiểu ngay cùng Trawise
-MỤC LỤC BÀI VIẾT
-1. Điện tử viễn thông là gì?
-2. Sinh viên điện tử viễn thông được học những gì?
-3. Học điện tử viễn thông ra làm gì?
-3.1. Làm việc trong công ty viễn thông
-3.2. Công nghệ thông tin
-3.3. Nghiên cứu và phát triển
-3.4. Kỹ thuật viên truyền thông
-4. Có nên đi du học ngành điện tử viễn thông?
-5. Lời kết
-1. Điện tử viễn thông là gì?
-Trước hết, chúng ta phải định nghĩa được điện tử viễn thông là gì?
-
-Điện tử viễn thông là một lĩnh vực kỹ thuật chuyên về việc truyền tải, xử lý và chuyển đổi thông tin bằng sử dụng các hệ thống và thiết bị điện tử. Nó liên quan đến các công nghệ như viễn thông, mạng máy tính, viễn thông di động, truyền hình, và nhiều hơn nữa.
-
-Đây là một lĩnh vực đóng vai trò hết sức quan trọng trong thời đại công nghệ
-Đây là một lĩnh vực đóng vai trò hết sức quan trọng trong thời đại công nghệ
-Lĩnh vực này đóng vai trò quan trọng trong việc phát triển và cung cấp các dịch vụ truyền thông hiện đại như điện thoại di động, internet, truyền hình số và các ứng dụng khác.
-
-2. Sinh viên điện tử viễn thông được học những gì?
-Khi sinh viên chọn đi theo ngành điện tử viễn thông, họ sẽ học những kiến thức cơ bản về lý thuyết điện tử, viễn thông, mạng máy tính và các hệ thống truyền thông.
-
-Họ sẽ được đào tạo về việc thiết kế, triển khai và quản lý các hệ thống viễn thông. Các môn học cụ thể bao gồm:
-
-Các kiến thức cơ bản mà sinh viên điện tử viễn thông được học
-Các kiến thức cơ bản mà sinh viên điện tử viễn thông được học
-Điện tử và viễn thông cơ bản: Cung cấp kiến thức về lý thuyết điện tử, nguyên lý truyền thông và các công nghệ viễn thông cơ bản.
-Mạng máy tính: Hướng dẫn về cách xây dựng và quản lý các mạng máy tính, bao gồm cả mạng có dây và mạng không dây.
-Công nghệ viễn thông di động: Nghiên cứu về các hệ thống viễn thông không dây như mạng di động, Wifi và Bluetooth, cũng như việc phát triển ứng dụng di động.
-Truyền dẫn và xử lý tín hiệu: Tập trung vào các phương pháp truyền dẫn tín hiệu điện tử và xử lý tín hiệu số để truyền tải và nhận dữ liệu.
-Điện tử viễn thông tiên tiến: Đào tạo sinh viên về các công nghệ tiên tiến như mạng ngầm, truyền thông quang học và xử lý tín hiệu cao cấp.
-3. Học điện tử viễn thông ra làm gì?
-Bạn đã biết được điện tử viễn thông là gì rồi, giờ đây hãy cùng xem xem học điện tử viễn thông ra làm gì?
-
-Sau khi hoàn thành chương trình học điện tử viễn thông, sinh viên có nhiều cơ hội nghề nghiệp như 4 lựa chọn dưới đây:
-
-3.1. Làm việc trong công ty viễn thông
-Đầu tiên, khi hỏi học điện tử viễn thông ra làm gì thì các công ty viễn thông sẽ hiện lên đầu tiên. Các công ty viễn thông hàng đầu như Ericsson, Nokia, Huawei hay Viettel luôn cần có các chuyên gia điện tử viễn thông để phát triển, triển khai và quản lý hệ thống viễn thông của họ.
-
-Trụ sở của tập đoàn Viettel
-Trụ sở của tập đoàn Viettel
-Sinh viên điện tử viễn thông có thể làm việc trong các bộ phận nghiên cứu và phát triển, quản lý dự án và hỗ trợ kỹ thuật.
-
-3.2. Công nghệ thông tin
-Rất nhiều công ty phần mềm, công ty phát triển ứng dụng di động và các công ty công nghệ thông tin khác cũng đang tìm kiếm các chuyên gia điện tử viễn thông để làm việc trong các dự án truyền thông.
-
-Bạn có thể tham gia vào việc phát triển ứng dụng di động, xây dựng và quản lý hệ thống mạng, cũng như tham gia vào phân tích và quản lý dữ liệu.
-
-3.3. Nghiên cứu và phát triển
-Có quá nhiều viện nghiên cứu, trường Đại học và tổ chức nghiên cứu công nghệ cần các chuyên gia điện tử viễn thông để thực hiện nghiên cứu và phát triển công nghệ mới.
-
-Sinh viên có thể tham gia vào các dự án nghiên cứu về viễn thông, mạng máy tính và các công nghệ tiên tiến khác. Từ đó tạo ra những đóng góp quan trọng cho sự phát triển của ngành.
-
-Do đó, bạn hoàn toàn có thể lựa chọn làm nghiên cứu nếu còn đang băn khoăn học điện tử viễn thông ra làm gì?
-
-3.4. Kỹ thuật viên truyền thông
-Lựa chọn trở thành một kỹ thuật viên truyền thông
-Lựa chọn trở thành một kỹ thuật viên truyền thông
-Tốt nghiệp ngành này, bạn có cơ hội làm việc như kỹ thuật viên truyền thông trong các công ty truyền thông, truyền hình và đài phát thanh. Sinh viên có thể tham gia vào việc thiết lập, cấu hình và bảo trì các hệ thống truyền thông, hỗ trợ kỹ thuật cho khách hàng và giải quyết các vấn đề kỹ thuật.
-
-4. Có nên đi du học ngành điện tử viễn thông?
-Đi du học ngành điện tử viễn thông mang lại nhiều lợi ích đáng kể.
-
-Những lý do nên đi du học ngành điện tử viễn thông
-Những lý do nên đi du học ngành điện tử viễn thông
-Đầu tiên, việc học tại các trường đại học uy tín trên thế giới sẽ đem lại cho sinh viên một môi trường học tập tiên tiến, cơ sở vật chất hiện đại và cơ hội tiếp cận với các chuyên gia hàng đầu trong lĩnh vực.
-
-Thứ hai, du học có thể giúp sinh viên mở rộng mạng lưới quan hệ và tạo dựng liên kết quốc tế. Việc gặp gỡ và học hỏi từ các sinh viên và giảng viên đến từ nhiều quốc gia khác nhau sẽ mở ra cơ hội hợp tác và phát triển trong tương lai.
-
-Cuối cùng, du học ngành điện tử viễn thông sẽ tạo điều kiện cho sinh viên được trải nghiệm và thích ứng với môi trường và công nghệ mới. Điều này rất quan trọng trong một lĩnh vực công nghệ nhanh chóng thay đổi như điện tử viễn thông.
-
-Tham khảo thêm: Nên đi du học nước nào rẻ? TOP 10 lựa chọn tốt nhất cho bạn
-
-5. Lời kết
-Điện tử viễn thông là gì? Học điện tử viễn thông ra làm gì? Trawise đã giải đáp chi tiết cho bạn qua bài viết này. Tóm lại, điện tử viễn thông là một lĩnh vực công nghệ quan trọng trong thế giới hiện đại. 
-
-Chúc bạn sẽ thành công trên chặng đường học tập sắp tới.
+produce
+Measure
+Physical System Physical System
+= object of study = useful product
+13Scientist – Engineer – Technologist – Technician/Artisan (cont…)
+◼ Technologist
+ Focusing on direct application of established engineering principles
+and processes
+ Less theory based
+ Technology is the outcome of engineering
+◼ Technician/artisan
+ Skilled workers in a field of technology who is proficient in the
+relevant skill and technique, with a relatively practical understanding
+of the theoretical principles
+14Which of these are the examples of technology?
+Shoes Subway Dandelion Cellular
+Oak tree Bridge Cup Factory
+Bird TV Bandage House
+Power lines Lightning Bicycle Book
+Technology is the product of transferring scientific knowledge to practical use
+15
+https://www.indeed.com/career-advice/finding-a-job/types-of-technologyEngineer vs. Scientist
+Galileo Galilei
+(1564-1642)
+The Starry Mesenger – Galieo’s
+observations of the moon
+16Engineer vs. Scientist (cont…)
+Leonardo da Vinci (1452 - 1519)
+• wanted to fly, to paint, to make things
+The study of arm’s motion The Vitruvian Man
+(or proportion of human body)
+Helicopter
+17Engineer vs. Scientist (cont…)
+Thomas Alva Edison
+(1847 - 1931)
+Phonograph (1899)
+U.S. Patent#223898: Electric-Lamp.
+January 27, 1880.
+Edison's electric power station at 257 Pearl Street in New York City (1882)
+18Engineer vs. Scientist (cont…)
+Sir Isaac Newton
+(1642 - 1727)
+19Engineer vs. Scientist (cont…)
+Albert Einstein
+(1879 - 1955)
+20Engineer vs. Scientist (cont…)
+Sir Thomas Crapper
+(1879 - 1955)
+Crapper’s toilet design (1902)
+21The Role of STEM in Engineering
+◼ What is STEM?
+Scientists Technologists
+ S – Science Investigate our Apply engineering
+natural world process
+ T – Technology
+ E – Engineering STEM
+Working together
+ M – Math
+to solve problems
+based on societal
+needs and wants
+Mathematicians
+Engineers
+Use numbers and symbols
+Create our
+to solve problems
+designed world
+22Problem Solving in Engineering
+◼ Example:
+ Problem: design a system to transmit human voice in a distance
+◊ a) 10m
+◊ b) 100m
+◊ c) 30km
+→ As an engineer, what should you do?
+23Problem Solving in Engineering (cont…)
+◼ A) 10m
+ Is there any problem to transfer voice in a 10m free space environment?
+24Problem Solving in Engineering (cont…)
+◼ B) 100m
+ Problem:
+◊ Voice deteriorates significantly after 100m so that it is difficult to hear
+ Question:
+◊ Why voice deteriorates by distance?
+◊ Is this deterioration proportional to distance?
+◊ Which factors contribute to this deterioration?
+– E.g., distance, frequency, weather condition, terrain, etc.
+◊ How these factors contribute to this deterioration?
+– E.g., the energy of voice reduces by 2 after 50m; the energy of higher frequency can be transmitted 2 times
+farer etc.
+◊ Which factors contribute to the voice quality at the receiver?
+– E.g., noise level, etc.
+◊ How these factors contribute to the receiver’s voice quality?
+◊ What is the minimum energy level of voice at the receiver that human can hear?
+→ The more you ask, the more you understand the constraints and issues to be solved
+25Problem Solving in Engineering (cont…)
+◼ B) 100m (cont…)
+ The next is to find solutions for these issues → system design
+ Then to implement the solutions in devices → system implementation
+Speaker design
+Speaker’s directivity D
+e
+s
+i
+g
+n
+a
+s
+y
+s
+t
+e
+m
+Sound pressure level (SPL) measurement
+Understand the problem
+System implementation
+h H
+26
+LProblem Solving in Engineering (cont…)
+◼ B) 100m
+ A slightly more advanced system
+Design Implementation
+(3D printer)
+27Problem Solving in Engineering (cont…)
+◼ C) 30km
+Problem:
+◊Natural voice cannot be transmitted over a distance of 100km
+Questions:
+◊ Why voice cannot be transmitted far?
+◊ Which medium is used? (e.g., air, copper cable)
+◊ Which signal is best suitable to a given environment?
+◊ What are the properties of these media when carrying signals? How do
+these media affect the quality of signal?
+◊ How to convert voice to that kind of signal?
+◊ How to recover voice at the receiver with best quality?
+28Problem Solving in Engineering (cont…)
+◼ C) 30km (cont…)
+Voice attenuation in distance Path loss for radio signals (~520MHz) Attenuation under different weather conditions
+29
+Frequency responseProblem Solving in Engineering (cont…)
+◼ C) 30km (cont…)
+30Problem Solving in Engineering (cont…)
+Wireless channel
+31Problem Solving in Engineering (cont…)
+◼ C) 30km (cont…)
+Line Medium hP
+Sampling Quantization Pulse code Source Channel y
+Encryption coding/Pulse Modulation Access s
+modulation coding coding ci
+shaping Control a
+c
+l
+h
+a
+Analog-to-Digital n
+n
+e
+l
+Medium
+Demodulation Access
+Control
+Error
+Pulse code Source
+Reconstruction Decryption detection/ Detection Equalization
+demodulation decoding
+correction
+Digital-to-Analog
+32Introduction to Design Thinking
+◼ What is design thinking?
+ Design thinking is a process for
+creative problem solving
+◊ A human-centered approach to problem
+solving
+◊ Help to get deep understanding of
+customer’s unmet needs and wants
+◊ Encourage creative consideration of a
+wide array of innovative solutions
+◊ Mindset as a process
+33Introduction to Design Thinking (cont…)
+◼ Human – desirability
+What makes sense to people and for people?
+◼ Business – viability
+What is likely to become part of a sustainable business model?
+◼ Technology – feasibility
+What is functionally possible within the foreseeable future?
+34Process of Design Thinking
+• Identify, clarify, analyze and understand the problem
+Empathy
+• Observing, determine framework conditions and goals
+• Define target group/stakeholders. Describe customer
+Define problems/needs
+• Generate volume and variety of ideas
+Ideate
+• Visualize possible solutions by creating quick models
+Prototype
+• Communicate with users and stakeholders to gain feedbacks.
+• Refine solutions
+Test
+35Empathy
+◼ Who has the problem?
+◼ Where does the problem occur?
+◼ When did the problem start/occur?
+◼ What is the problem? What do you know or don’t know about
+the problem?
+◼ How can it be formulated differently?
+◼ Why is it a problem?
+36Define
+◼ Select and observe target group/stakeholders
+Select customers/users with the same needs/problem
+◊Who should be observed?
+Observe the customer during his/her activities and the situation to
+better understand problem
+◊Which behavior should be observed?
+◊What is the specific need/problem to be solved?
+37Ideate
+◼ Brainstorming
+◼ Synectics*
+◼ Evaluation of ideas
+Selecting promising ideas
+38
+*
+https://en.wikipedia.org/wiki/SynecticsPrototype
+◼ Ideas selected are expanded into design concept
+39Test
+◼ After creating a prototype, the testing of the prototype must
+be planned and organized with the concrete interaction with
+customers/users
+40General mind map illustration
+41
+https://iopscience.iop.org/article/10.1088/1757-899X/297/1/012054/pdfGeneral mind map illustration
+42
+Using Mind Mapping in Technical Education, Proceedings of the 2005 American Society for Engineering Education Annual Conference & ExpositionThank you!
+43
+--- Văn bản từ PDF 5 ---
+HAND-ON GUIDELINES
+DEMO PROJECT
+ĐO ĐỘ ẨM & NHIỆT ĐỘ
+QUA INTERNET
+Dựa trên ESP32, Firebase
+và MIT App Inventor
+ASE LABĐo độ ẩm & nhiệt độ
+qua Internet
+NỘI DUNG CHÍNH
+01 Tổng quan
+02
+Triển khai
+ASE LAB
+2Đo độ ẩm & nhiệt độ
+qua Internet
+01
+TỔNG QUAN
+Mục Đích
+1. Giới Thiệu Dự Án IoT Đơn Giản
+Đo độ ẩm & nhiệt độ qua Internet dựa trên ESP32, Firebase và MIT App Inventor
+2. Cung Cấp Kiến Thức Thực Tế và Dễ Ứng Dụng
+3. Khơi Gợi Ý Tưởng Sáng Tạo
+ASE LAB
+3Đo độ ẩm & nhiệt độ
+qua Internet
+01
+TỔNG QUAN
+Tổng Quan Hệ Thống
+• Chức năng: Nhận các thông số về độ ẩm & nhiệt độ từ xa bằng điện thoại
+• Nền tảng: Sử dụng ESP32, Firebase và MIT App Inventor
+• Phương thức kết nối: Internet
+• Nguồn đầu vào: 5V – 12V
+• Tiêu thụ điện năng:
+• Phạm vi nhận tín hiệu: Không giới hạn
+• Ứng dụng điều khiển: Thiết bị Android
+ASE LAB
+4Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Sơ Đồ Khối
+Các
+Firebase
+WiFi Internet
+thông số
+Sensor ESP32 Realtime Ứng dụng
+độ ẩm &
+Các Các
+Database
+nhiệt độ
+thông thông
+số số
+ASE LAB
+5Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Cứng
+Các thành phần chính
+ESP32
+• ESP32 là vi điều khiển 32-bit đa năng do
+Espressif Systems phát triển để phục vụ
+các ứng dụng IoT, nhúng, tự động hóa &
+nhiều lĩnh vực khác
+• Hỗ trợ bộ xử lí 2 nhân, hiệu suất cao
+• Tích hợp kết nối Wifi và Bluetooth/BLE
+trong cùng một chip
+• Hỗ trợ nhiều giao thức giao tiếp với
+nhiều chân GPIO
+ASE LAB
+6Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Cứng
+Các thành phần chính
+Cảm biến DHT11
+• DHT11 là loại cảm biến phổ biến dùng để
+đo nhiệt độ và độ ẩm, giá thành rẻ, tích
+hợp cả 2 chức năng
+• Đo nhiệt độ trong khoảng từ 0o C đến
+o
+50 C với sai số ±2%
+• Đo độ ẩm trong khoảng từ 20% đến 90%
+với sai số ±5%
+• Dùng giao thức 1-wire đơn giản (chỉ cần
+1 dây dữ liệu để giao tiếp với vi điều khiển)
+• Điện áp hoạt động: 3,3V - 5V
+ASE LAB
+7Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Cứng
+Sơ đồ mạch
+Bảng kết nối chân
+ESP32 DHT11
+3.3V VCC
+GND GND
+D4 DATA
+ASE LAB
+8Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+1. Firebase là gì?
+Firebase là một nền tảng phát triển ứng dụng di động và web do Google cung cấp.
+Nó hỗ trợ các công cụ giúp tăng tốc phát triển, nâng cao hiệu suất và bảo mật.
+2. Các dịch vụ nổi bật của Firebase
+• Realtime Database • Firebase Storage
+• Cloud Firestore • Firebase Hosting
+• Firebase Authentication • Cloud Functions
+ASE LAB
+9Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 1: Truy cập Firebase Console
+https://console.firebase.google.com/
+ASE LAB
+10Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 2: Chọn Get started
+with a Firebase project
+ASE LAB
+11Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Tên dự án
+Bước 3: Nhập tên dự án, chấp
+nhận các điều khoản và chọn
+Continue
+Chọn Continue
+Điều khoản
+ASE LAB
+12Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 4: Nên chọn Enable Google Analytics
+for this project, chọn Continue
+Chọn Continue
+ASE LAB
+13Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 5: Chọn Analytics location là Vietnam,
+đồng ý điều khoản và chọn Create project
+Chọn Create project
+ASE LAB
+14Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 6: Chọn Continue
+Chọn Continue
+ASE LAB
+15Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 7: Chọn Build
+=> Authenticaton
+ASE LAB
+16Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 8: Chọn Get started
+ASE LAB
+17Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 9: Trong Sign-in
+method, chọn Anonymous
+ASE LAB
+18Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Enable
+Bước 10: Chọn Enable => Save
+Save
+ASE LAB
+19Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 11:Trong Build,
+chọn Realtime Database
+ASE LAB
+20Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 12:Chọn Create Database
+ASE LAB
+21Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 13:Chọn máy chủ gần nhất,
+ở đây chúng ta chọn Singapore,
+chọn Next
+ASE LAB
+22Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 14:Chọn Start in locked
+mode, chọn Enable
+ASE LAB
+23Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 15: Nhấn vào dấu + để thêm
+vào các tag như hình bên
+ASE LAB
+24Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Chọn để lưu URL
+Bước 16: Lưu lại URL
+ASE LAB
+25Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 17: Trong Rules, sửa lại các
+mục read và write thành true, sau
+đó chọn Publish
+ASE LAB
+26Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 18: Chọn biểu tượng
+Cài đặt, sau đó chọn
+Project settings
+ASE LAB
+27Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 19: Trong General,
+lưu lại Web API Key
+Lưu ý: Đây là thông tin cần
+được bảo mật
+ASE LAB
+28Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Firebase
+Bước 20: Trong Service
+accounts, chọn Database
+secrets và lưu lại Secrets
+Lưu ý: Đây là thông tin cần
+được bảo mật
+ASE LAB
+29Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Arduino IDE
+Bước 1: Install thư viện
+FirebaseClient by Mobizt vào
+Arduino IDE
+ASE LAB
+30Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Arduino IDE
+Nếu không tìm thấy FirebaseClient trong Arduino IDE, bạn truy cập đường link sau:
+https://github.com/mobizt/FirebaseClient
+Chọn Code => Download ZIP
+ASE LAB
+31Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Arduino IDE
+Trong Arduino IDE, chọn Sketch
+=> Include Library => Add .ZIP Library
+và thêm file .ZIP vừa tải
+ASE LAB
+32Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Arduino IDE Bước 2: code cho ESP32
+Link code
+ASE LAB
+33Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+Arduino IDE
+WiFiName
+password
+Databasesecret
+URL
+Thay thế:
+• WiFiName là tên WiFi của bạn
+• password là mật khẩu WiFi
+• database secret là Secret đã lưu trên Firebase
+• URL là URL đã lưu trên Firebase
+ASE LAB
+34Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 1: Truy cập MIT App
+Inventor
+appinventor.mit.edu
+ASE LAB
+35Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 2: Tại giao diện chính,
+chọn Create App!
+ASE LAB
+36Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 3: Nhấn Continue
+ASE LAB
+37Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 4: Chọn
+START A BLANK PROJECT
+ASE LAB
+38Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 5: Trong Create new App Inventor
+project:
+• Nhập tên Project vào ô Project name
+• Nhấn OK, ta sẽ khởi tạo được giao diện
+như hình phía dưới
+ASE LAB
+39Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 6: Chọn màn hình hiển thị theo ý
+muốn. Ví dụ:
+• Phone size (320x505)
+• Android 5+ Devices
+ASE LAB
+41Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 7: Tại User Interface ở bên trái
+màn hình, chọn Label rồi kéo thả
+vào màn hình điện thoại ở giữa
+ASE LAB
+42Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 8: Tại cột Properties bên phải,
+lần lượt điều chỉnh các đầu mục
+tương ứng để các Label lựa chọn
+hiển thị theo ý muốn
+ASE LAB
+44Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 8: Giả sử ta điều chỉnh
+hiển thị trên hàm hình điện
+thoại hiện tại như hình bên
+ASE LAB
+45Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 9: Tại cột bên trái, lựa chọn lần
+lượt các thành phần sau và kéo thả
+tương tự bước 9, ta thu được như
+hình bên phải:
+• Connectivity : Chọn Web
+• Sensor: Chọn Clock
+• Connectivity : tiếp tục chọn Web
+ASE LAB
+47Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 10: Chọn Block ở góc
+trái màn hình
+ASE LAB
+48Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+URL WEB 1
+5
+1 4
+4 1
+6
+Bước 11: Trong Block, ta kéo
+6
+URL WEB 2
+thả các khối như sau
+4
+2
+2
+6
+3
+4
+3
+5
+6
+ASE LAB
+49Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 12: Chọn Build, chọn
+Android App (apk) để tạo file
+apk để download app về điện
+thoại
+ASE LAB
+50Đo độ ẩm & nhiệt độ
+qua Internet
+02
+TRIỂN KHAI
+Phần Mềm
+MIT App Inventor
+Bước 13: Quét mã QR để tiến
+hành download và sử dụng
+Lưu ý: Link chỉ tồn tại trong vòng 2
+tiếng kể từ khi bắt đầu khởi tạo
+ASE LAB
+51THANK YOU!
+ASE LAB
+--- Văn bản từ PDF 6 ---
+AUTODESK
+FUSION 360
+AUTODESK
+FUSION 360
+CÀI ĐẶT & SỬ DỤNG
+ASE LABAUTODESK FUSION
+360
+NỘI DUNG CHÍNH
+I. Giới thiệu chung về Fusion 360
+Thông tin chung
+Các chức năng chính
+II. Hướng dẫn cài đặt Fusion 360
+III. Quy trình làm việc & Demo mạch trên Fusion 360
+ASE LAB
+1AUTODESK
+FUSION 360
+01
+GIỚI THIỆU CHUNG VỀ FUSION 360
+Thông tin chung
+Fusion 360 được phát triển bởi Autodesk, là phần mềm thiết kế và
+sản xuất tích hợp (Integrated CAD, CAM, and CAE)
+CAD (Computer-Aided Design)
+CAM (Computer-Aided Manufacturing)
+CAE (Computer-Aided Engineering)
+Fusion 360 có khả năng làm việc trực tuyến, lưu (Logo & Slogan của Autodesk)
+trữ và quản lý dữ liệu trên đám mây
+ASE LAB
+2AUTODESK
+FUSION 360
+01
+GIỚI THIỆU CHUNG VỀ FUSION 360
+Các chức năng chính
+Hỗ trợ đa dạng Thiết kế mạch
+thư viện nguyên lí
+Vẽ mạch PCB Mô phỏng
+Spice
+ASE LAB
+3AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 1: Truy cập trang web Autodesk
+1. Gõ từ khóa “Autodesk Fusion 360”
+trên thanh tìm kiếm
+2. Truy cập trang web chính chủ của
+Autodesk có biểu tượng và đường
+link truy cập như hình
+ASE LAB
+4AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 2: Nhấn vào Download free trial trên trang chủ của Autodesk
+Click
+ASE LAB
+5AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 3: Nhấn vào Autodesk Fusion for educational use trên màn hình
+Click
+ASE LAB
+6AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 4: Tìm kiếm phần mềm Fusion, nhấn vào nút Select trong ô Fusion
+Click
+ASE LAB
+7AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 5: Sau khi chọn phần mềm Fusion, trên giao diện, lựa chọn đối tượng
+Student, nhấn vào Select
+Click
+ASE LAB
+8AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 6: Sử dụng mail A.NV24xxxx@sis.hust.edu.vn để lần lượt hoàn thành
+các bước xác nhận tư cách sinh viên
+ASE LAB
+10AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 7: Chọn Submit để download file cài đặt
+Mỗi tài khoản khi
+đăng kí sẽ được sử
+dụng miễn phí 1 năm
+Click
+ASE LAB
+11AUTODESK
+FUSION 360
+02 HƯỚNG DẪN CÀI ĐẶT FUSION 360
+Bước 8: Mở file Fusion Client đã cài đặt về máy tính, nhấn vào và chạy phần
+mềm để hoàn thành việc cài đặt
+Click
+ASE LAB
+12AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 1: Mở phần mềm Fusion 360 đã cài đặt , giao diện sẽ hiển thị như hình
+ASE LAB
+13AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 2: Chọn biểu tượng File ở góc trái trên cùng màn hình, sau đó nhấn vào
+New Electronics Design
+1. Chọn biểu tượng File
+Click
+Click
+2. Chọn New Electronics Design
+ASE LAB
+14AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 3: Sau khi hiển thị giao diện như hình, nhấn chọn biểu tượng New
+Schematic ở góc trái trên màn hình để tiến hành vẽ mạch nguyên lí
+Click
+ASE LAB
+15AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 4: Sau khi hiển thị giao diện vẽ mạch nguyên lí, chọn biểu tượng Save
+ở góc trái trên cùng để tiến hành lưu file
+Click
+ASE LAB
+16AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 5: Thực hiện lần lượt
+3. Nhập tên File
+các bước để tạo 1 Project và
+vào ô Name
+lưu file trên cửa sổ Save
+2. Nhập tên project mới
+vào ô trống ở cột Project
+4. Nhấn vào Save
+1. Nhấn vào New Project
+để lưu
+để tạo 1 Project mới
+ASE LAB
+17AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 6: Chọn biểu tượng Grid trên thanh công cụ phía dưới màn hình để tạo
+giao diện vẽ mạch
+k
+c
+ilC
+ASE LAB
+18AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 7: Tại cửa sổ Grid, tại các ô, nhập vào các thông số như hình bên trái,
+nhấn OK, ta sẽ có giao diện làm việc như hình bên phải
+ASE LAB
+19AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 8: Nháy đúp chuột vào linh kiện được đề xuất, đưa linh kiện ra ngoài
+theo trình tự
+1. Nháy đúp
+2. Di chuyển
+3. Di choột vào
+choột vào linh
+choột để đưa
+nút Done để
+kiện muốn sử
+linh kiện ra ngoài
+hoàn thành
+dụng trong bảng
+đề xuất
+ASE LAB
+20AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 9: Thực hiện tương tự với các linh kiện khác (Ví dụ như hình đang vẽ 1
+mạch RC cơ bản)
+ASE LAB
+21AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 10: Nhấn choột phải vào từng linh kiện, chọn Value để chọn giá trị đo
+cho linh kiện
+Click
+ASE LAB
+22AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 11: Nhấn chuột phải vào từng linh kiện, chọn Value để chọn giá trị đo
+cho linh kiện
+Click
+ASE LAB
+23AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 12: Chọn biểu tượng Net trên thanh công cụ để tiến hành nối các linh kiện
+Click
+ASE LAB
+24AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 13: Chọn biểu tượng Voltage Probe trên thanh công cụ để chọn vị trí
+muốn đo điện áp
+Click
+ASE LAB
+25AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 14: Chọn ví trí muốn mô phỏng điện áp, kéo thả choột lên trên. Sau đó
+nhấn Done để kết thúc .(Ví dụ như hình)
+Click
+ASE LAB
+26AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 15: Chọn ví trí muốn mô phỏng điện áp, kéo thả choột lên trên. Sau đó
+nhấn Done để kết thúc .(Ví dụ như hình)
+Click
+ASE LAB
+27AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 16: Chọn biểu tượng Simulate trên thanh công cụ để tiến hành mô
+phỏng mạch
+Click
+ASE LAB
+28AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 17: Tại cửa sổ Simulation, lựa chọn các yêu cầu như mong muốn, nhấn
+Simulate để tiến hành mô phỏng.
+(Ví dụ như hình bên)
+Click
+ASE LAB
+29AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 18: Tại cửa sổ Simulation, lựa chọn các yêu cầu như mong muốn, nhấn
+Simulate để tiến hành mô phỏng.
+(Ví dụ như hình bên)
+Click
+ASE LAB
+30AUTODESK
+FUSION 360
+03
+QUY TRÌNH LÀM VIỆC & DEMO MẠCH
+Bước 19: Dựa vào kết quả mô phỏng, ta có thể biết mạch có đang hoạt động
+tốt hay không và đo được các tham số cần thiết (V, I,..)
+ASE LAB
+31THANK YOU!
+ASE LAB
+--- Văn bản từ PDF 7 ---
+SCHEMATIC & PCB
+AUTODESK FUSION 360
+ASELAB
+1SCHEMATIC & PCB
+MAIN CONTENTS
+1
+OVERVIEW
+2
+DRAW SCHEMATIC CIRCUIT
+3
+DRAW PCB
+4
+3D SIMULATION
+ASELAB
+2SCHEMATIC & PCB
+1
+OVERVIEW
+System Overview
+• Function: Collect humidity and temperature parameters
+• Components used: ESP32, power , DHT11 sensor
+• Input power: 5V – 12V
+• Software: Fusion 360
+ASELAB
+3SCHEMATIC & PCB
+1
+OVERVIEW
+System Block Diagram
+Power
+humidity &
+Sensor ESP32 temperature
+parameters
+ASELAB
+4SCHEMATIC & PCB
+1
+DRAW SCHEMATIC CIRCUIT
+Step 1: Open
+Autodesk Fusion 360
+on the laptop
+Initial interface when opening the software
+ASELAB
+5SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 2: Press Ctrl + S on
+the keyboard to name
+and save the project
+2.1 Name
+2.1
+2.2 Select folder to save
+2.2
+2.3 Save
+2.3
+Interace when name and save the new project
+ASELAB
+6SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 3: Back to Initial
+interfafce of project,
+click the icon of New
+Schematic in the top-
+left corner of the screen
+to initialize new
+Schematic for project
+Interface of project
+ASELAB
+7SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 4: Access google.com,
+type
+“Snapeda Pulgin Fusion 360”
+5.8
+5.9
+ASELAB
+8SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 5: Select website that
+has the link below
+https://apps.autodesk.com
+5.8
+5.9
+ASELAB
+9SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 6: Back to interface of
+Fusion 360.
+Select Tool, then click the icon
+5.8
+of SnapEda in the left corner of
+the screen
+5.9
+ASELAB
+10SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 7: After select SnapEda
+and login, interface will display
+as pic beside
+5.8
+5.9
+ASELAB
+11SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 8: On the search bar, type
+the name of components step 5.8
+by step → then click download
+to download the components
+5.9
+ASELAB
+12SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 9: click Import part
+5.8
+5.9
+ASELAB
+13SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 10: After display this
+interface, click on the file
+SnapEDA Library v2
+5.8
+5.9
+ASELAB
+14SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 11: Click Connect
+5.8
+5.9
+ASELAB
+15SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 12: Click OK
+5.8
+5.9
+ASELAB
+16SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 13: After that, go to Library
+Manager, at the Search bar,
+type snapEDA → press In Use
+5.8
+5.9
+ASELAB
+17SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 14: Click on the component
+and drag it out onto the screen
+5.8
+5.9
+ASELAB
+19SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+20SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+21SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+22SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+23SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+24SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 15: Repeat the same
+steps as above with the other
+components
+5.8
+5.9
+ASELAB
+25SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 16: After extracting the
+components, we obtain the
+result as shown in the figure
+below
+ASELAB
+26SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 17: Go to the Library
+Manager → At the Search bar
+→ type Tutorial → Choose In
+5.8
+Use
+Note: This library support to
+extract the power and GND 5.9
+ASELAB
+27SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 18: Click the icon of NET on
+5.8
+the toolbar và proceed to connect
+the wire
+5.9
+ASELAB
+28SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 19: After connect the
+wire, we will have the circuit of 5.8
+power block as the Fig beside
+5.9
+ASELAB
+29SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 20: Connect ESP32 and sensor
+5.8
+5.9
+ASELAB
+30SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 21: Create a 24V jack as
+shown in the Fig beside
+5.8
+5.9
+ASELAB
+31SCHEMATIC & PCB
+2
+DRAW SCHEMATIC CIRCUIT
+Step 22: After connecting all the
+components, we have the
+5.8
+complete schematic circuit as
+shown in the figure below.
+5.9
+ASELAB
+31SCHEMATIC & PCB
+3
+DRAW PCB CIRCUIT
+Step 23: click on the Switch in the
+top-left corner of the screen to
+5.8
+switch to PCB design
+5.9
+ASELAB
+33SCHEMATIC & PCB
+3
+DRAW PCB CIRCUIT
+Step 24: After switching to PCB, we get the
+interface as shown in the image
+→ Select all the components and drag them into
+5.8
+the black area to design the PCB as shown in
+the image on the right
+5.9
+ASELAB
+34SCHEMATIC & PCB
+3
+DRAW PCB CIRCUIT
+Step 25: Use the routing
+function to sequentially
+connect the wires between the
+5.8
+components
+Note: In the panel on the right side
+of the interface, select the 5.9
+appropriate trace width.
+* The larger the voltage, the greater
+the trace width.
+* Signal wires use smaller traces.
+ASELAB
+35SCHEMATIC & PCB
+3
+DRAW PCB CIRCUIT
+Step 26: Use the Polygon
+function on the toolbar to draw
+a boundary around the entire
+5.8
+circuit → Enter the signal as
+GND → Click OK
+Note: The purpose is to pour
+5.9
+ground (GND) over the entire
+circuit → to reduce noise
+ASELAB
+36SCHEMATIC & PCB
+3
+DRAW PCB CIRCUIT
+Step 27: The completed circuit
+after routing and pouring ground to
+reduce noise.
+5.8
+5.9
+ASELAB
+37SCHEMATIC & PCB
+4
+3D SIMULATION
+Step 28 : Select the Push to 3D
+PCB function to view the 3D
+simulation of the circuit
+5.8
+5.9
+ASELAB
+38SCHEMATIC & PCB
+4
+3D SIMULATION
+Step 29: Interface to simulate
+3D of PCB circuit
+5.8
+5.9
+ASELAB
+39SCHEMATIC & PCB
+4
+3D SIMULATION
+Step 30: Back to Project manager Tab
+5.8
+5.9
+ASELAB
+40SCHEMATIC & PCB
+4
+3D SIMULATION
+Step 31: Save and describe project
+5.8
+5.9
+ASELAB
+41SCHEMATIC & PCB
+4
+3D SIMULATION
+Step 32: Interface after completely
+save the project
+5.8
+5.9
+ASELAB
+42THANK YOU!
+ASE LAB
+--- Văn bản từ PDF 8 ---
+Fundamentals of Electronics
+Electronics Design, Drawing a Schematic, Layout Design, Trace Routing, Resistors, Transistors,
+Schematic Symbols, Footprints, Printed Circuits Boards – What is this all about? Let’s take a
+look into the world of electronics.
+Electronic Components
+Resistors, Capacitors, Transistors, Inductors, LEDs, MOSFETs, Op-Amps, Diodes, Logic Gates
+and many more different components are available. As an electronic engineer you know all these
+expressions and what they describe. If you do not know, take a look into the web. There you will
+find all lot of information about them.
+Further information is available in the Autodesk EAGLE blog via the following links:
+How to Choose the Right Resistor?
+àhttps://www.autodesk.com/products/eagle/blog/how-choose-right-resistor/
+All about Capacitors
+àhttps://www.autodesk.com/products/eagle/blog/everything-need-know-capacitors/
+What Is an Inductor, In Plain English?
+àhttps://www.autodesk.com/products/eagle/blog/inductor-plain-english/
+How does a diode and LED work?
+àhttps://www.autodesk.com/products/eagle/blog/diode-led-work/
+What is a Transistor?
+àhttps://www.autodesk.com/products/eagle/blog/transistors-world-modern-electrons/
+How Transistors Changed Electronics Forever
+àhttps://www.autodesk.com/products/eagle/blog/how-transistors-changed-electronics-forever/
+Op-Amps – A beginners Guide
+àhttps://www.autodesk.com/products/eagle/blog/op-amps-beginners-guide/
+How the Integrated Circuit Works: Everything You Need to Know
+àhttps://www.autodesk.com/products/eagle/blog/integrated-circuit-moores-law/
+How do Microcontrollers work?
+àhttps://www.autodesk.com/products/eagle/blog/how-microcontrollers-work/
+How Logic Gates Work in Digital Electronics
+àhttps://www.autodesk.com/products/eagle/blog/you-shall-not-pass-how-logic-gates-work-in-digital-electronics/
+There is another amazing development in electronics. As you know all our electronic devices are
+getting smarter and smarter and at the same time smaller and smaller.
+Miniaturization of Electronics
+àhttps://www.autodesk.com/products/eagle/blog/the-miniaturization-of-electronics/
+The following image shows an impressive change of size for electronic devices.
+Page 4RESISTORS IN DIFFERENT PACKAGE SIZES
+Page 5Logical Representation of a Component in a Schematic Drawing
+The Schematic is a drawing that contains symbols, the logical representation of components.
+Some examples:
+SYMBOLS USED IN THE SCHEMATIC DRAWING
+How Do Printed Circuits Boards Look Like?
+PCBs are available in all kind of shapes. They can be rigid or flexible or a combination of both.
+Some boards have components on side or even on both sides (top and bottom side). The vast
+majority is two layers. This means copper traces on top and bottom. Depending on complexity
+the can also have more copper layers, so-called inner layers. EAGLE supports up to 16 signal
+layers.
+Page 6PRINTED CIRCUIT BOARDS
+Further information is available via the following link:
+Printed Circuit Boards
+à https://www.autodesk.com/products/eagle/blog/printed-circuit-boards-10000-feet-introduction-electronics-
+beginners/
+How is a PCB manufactured?
+The basic data format for industrial manufacturing of a Printed Circuits Board is Gerber data and
+Excellon data for drilling. Please follow these links to get further information:
+Gerber and Drill data
+à https://www.autodesk.com/products/eagle/blog/gerber-nc-drill-pcb-manufacturing-basics-1/
+PCB manufacturing.
+à https://www.autodesk.com/products/eagle/blog/pcb-manufacturing/
+Alternative options for PCB manufacturing:
+à https://www.autodesk.com/products/eagle/blog/additive-pcb-manufacturing-desktop/
+Page 7
+--- Văn bản từ PDF 9 ---
+ET3262
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện - Điện tử * Đại học Bách Khoa Hà NộiStories engage people and aid researchers
+in identifying patterns and trends
+https://knowwithoutborders.org/design-thinking-and-storytelling/ET3262
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện-Điện tử * Đại học Bách Khoa Hà Nội
+--- Văn bản từ PDF 10 ---
+DoE
+DESIGN OF
+EXPERIMENTS
+ASE LABDESIGN OF EXPERIMENTS
+MAIN CONTENTS
+1
+OVERVIEW
+Concept & Benefits
+Components
+Methods
+Step for Implementation
+2 APLICATIONS OF DOE IN ELECTRONICS
+ENGINEERING
+3
+DEMOSTRATION EXPERIMENT
+ASELAB
+2DESIGN OF EXPERIMENTS
+01
+OVERVIEW
+CONCEPT & BENEFITS
+• Design of Experiments (DOE) is a systematic method to plan, conduct, analyze,
+and interpret experiments
+→ Explore the relationship between input factors (independent variables) and
+output responses (dependent variables)
+→ Optimize performance or improve processes
+• Design of Experiments (DOE) helps:
+→ Understand interactions between factors
+→ Optimize product or process characteristics
+→ Minimize the number of experiments while
+ensuring reliable results
+ASE LAB
+3DESIGN OF EXPERIMENTS
+01
+OVERVIEW
+• Factors that can be controlled during the experiment
+COMPONENTS
+• Include parameters or conditions that can be adjusted,
+such as temperature, pressure, speed, or time,…
+The process or system that transforms
+the input factors into the output.
+• The result or response of the
+process based on the input factors.
+• Factors involves in the process to
+produce the output
+• Factors that cannot be controlled or are difficult to control during the experiment
+• Examples include variations in ambient temperature, humidity, or random errors
+from equipment.
+ASE LAB
+4DESIGN OF EXPERIMENTS
+01
+OVERVIEW
+METHODS
+Name Features
+One-Factor-at-a-Time (OFAT) Study each factor individually while keeping other factors constant.
+→ Simple but ineffective because it does not account for interactions between
+factors.
+Full Factorial Design Consider all possible combinations of factors and levels.
+→ Suitable when the number of factors and levels is small
+Fractional Factorial Design Select only a subset of combinations to reduce the number of experiments.
+→ Effective when the number of factors is large, but care must be taken not to
+miss important interactions
+Mixture Design Apply when the output depends on the proportion of components in the mixture
+ASE LAB
+5DESIGN OF EXPERIMENTS
+01
+OVERVIEW
+STEP FOR IMPLEMENTATION
+2. Select Factors
+1. Define Objectives 3. Choose a Design
+and Levels
+•Measure the impact of which factors? •OFAT [One Factor At a Time ], full
+•Optimize which dependent variable? •Identify controllable factors and factorial, fractional factorial, or
+their corresponding levels.
+mixture design?
+5. Analyze Data
+6. Verify 4. Collect Data
+•Use software or statistical
+•Perform additional experiments •Conduct experiments and record
+models to identify influencing
+to validate the results results.
+factors and interactions
+ASE LAB
+6DESIGN OF EXPERIMENTS
+2
+0
+APLICATIONS OF DOE IN ELECTRONICS ENGINEERING
+Optimizing Electronic Circuit Design
+•Objective: Improve circuit performance, reduce
+power consumption, or increase stability.
+•Applying DOE:
+→ Analyze factors such as resistor values, capacitor
+values, and input current.
+→ Conduct experiments at different levels of each
+factor to identify the optimal combination.
+ASE LAB
+7DESIGN OF EXPERIMENTS
+2
+0
+APLICATIONS OF DOE IN ELECTRONICS ENGINEERING
+Calibration and Testing of Sensors
+•Objective: Ensure accuracy and sensitivity of
+sensors under varying environmental conditions.
+•Applying DOE:
+→ Use full factorial or fractional factorial designs to
+identify which factors most significantly affect
+sensor performance.
+ASE LAB
+8DESIGN OF EXPERIMENTS
+2
+0
+APLICATIONS OF DOE IN ELECTRONICS ENGINEERING
+Optimizing Wireless and IoT Systems
+•Objective: Improve signal transmission, save
+energy, and reduce interference.
+•Applying DOE:
+→ Analyze the effects of factors such as antenna
+gain, operating frequency, and surrounding material
+types.
+ASE LAB
+9DESIGN OF EXPERIMENTS
+2
+0
+APLICATIONS OF DOE IN ELECTRONICS ENGINEERING
+Testing Circuit Reliability and Fault Tolerance
+•Objective: Ensure the circuit operates stably
+under harsh conditions.
+•Applying DOE:
+→ Use full factorial design to analyze factors
+such as temperature, humidity, and supply
+voltage.
+ASE LAB
+10DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+•Objective: Determine the impact of two factors: voltage
+supply and data reading frequency on the accuracy of the
+sensor
+•Experiment Description:
+→ A circuit using ESP32 connected to the DHT11/DHT22
+sensor → measure the temperature and humidity of the
+environment.
+→ The sensor readings will be compared with data from a
+reference device (reference thermometer) to evaluate
+accuracy.
+ASE LAB
+11DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+• Factors:
+→ Voltage Supply (Voltage): Two levels: 3.3V and 5V.
+→ Data Reading Frequency (Frequency): Two levels:
+one read per second and one read every 5 seconds.
+•Response:
+→ Mean Absolute Error (MAE) between DHT11/DHT22
+data and reference device data.
+Schematic of Component Connections
+ASE LAB
+12DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+• Experiment Design: A full factorial design is used
+to test all combinations of the factors:
+Voltage (V) Reading Frequency (Hz) MAE (°C and %RH)
+3.3V 1 read/second ±0.5°C, ±2% RH
+3.3V 1 read every 5 seconds ±0.3°C, ±1.5% RH
+5V 1 read/second ±0.7°C, ±3% RH
+5V 1 read every 5 seconds ±0.4°C, ±2% RH
+ASE LAB
+13DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+• Conducting the Experiment
+1. Hardware 2. Software Setup 3. Conduct the 4. Comparing
+Results
+Setup Experiment
+•Use the DHT library on the
+•Calculate the mean
+Arduino IDE to read data
+•Connect the power and •Change the voltage supply
+absolute error (MAE)
+from the sensor.
+signal pins of the levels (3.3V or 5V).
+between DHT11/DHT22
+DHT11/DHT22 to the •Change the reading
+•Program the ESP32 to read results and the reference
+ESP32. frequency (one read per
+device.
+temperature and humidity at
+•Ensure a pull-up resistor second or one read every 5
+the set frequency and log the
+on the signal pin. seconds).
+results.
+ASE LAB
+14DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+• Conducting the Experiment
+Link code Schematic of Component Connections
+ASE LAB
+15DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment with ESP32 and DHT11/DHT22 Sensors
+for Measuring Temperature and Humidity
+Reading
+• Data Analysis: MAE (°C and
+Voltage (V) Frequency
+%RH)
+(Hz)
+Voltage: Low voltage (3.3V) may lead to
+±0.5°C, ±2%
+higher error due to unstable sensor 3.3V 1 read/second
+RH
+operation.
+1 read every 5 ±0.3°C, ±1.5%
+3.3V
+Reading Frequency: Too high reading
+seconds RH
+frequency (one read per second) may
+±0.7°C, ±3%
+increase error as the sensor does not have 5V 1 read/second
+RH
+enough time to respond.
+1 read every 5 ±0.4°C, ±2%
+5V
+seconds RH
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Let design a paper helicopter
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Objectives
+❑ To increase the flight time: stay in
+the air for longer time
+❑ To analyze the main effects
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Influence factors
+❑ Paper type
+❑ Rotor length
+❑ Leg length
+❑ Leg width
+❑ Number of clips
+❑ Wing shapes
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Instruction
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Instruction
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Instruction
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment Results
+No. Rotor Leg Length Leg Width Paper Clip On Flight time
+Length (second)
+1 R1 L1 W1 Yes ?
+2 R1 L2 W1 Yes ?
+3 R1 L3 W1 Yes ?
+Flight time (S)
+peak
+L1 L2 L3 Lpeak Leg Length
+ASE LAB
+16DESIGN OF EXPERIMENTS
+3
+0
+DEMONSTRATION EXPERIMENT
+Experiment Results
+No. Rotor Leg Length Leg Width Paper Clip On Flight time
+Length (second)
+5 R2 Lpeak W1 Yes ?
+6 R3 Lpeak W1 Yes ?
+7 R4 Lpeak W1 Yes ?
+Flight time (S)
+peak
+y=f(x2)
+Tpeak
+R1 R2 R3 Rpeak Rotator Length
+ASE LAB
+16DESIGN OF EXPERIMENTS
+THANK YOU
+ASE LAB
+17
+--- Văn bản từ PDF 12 ---
+NHẬP MÔN
+KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+ET5270
+Introduction to Electronics and
+Telecommunication Engineering
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện-Điện tử * Đại học Bách Khoa Hà NộiQuy trình thiết kế kỹ thuật: 9 bước thiết kế
+1. Xác định nhu cầu sản phẩm 1. Determine needs
+2. Tạo chỉ tiêu kỹ thuật 2. Create technical specifications
+3. Lập kế hoạch 3. Develop a Plan
+4. Thực hiện sơ đồ khối 4. Perform block design
+5. Thiết kế từng khối 5. Design each block
+6. Lựa chọn phương án tối ưu 6. Select best alternatives
+7. Kiểm tra và đánh giá 7. Test
+8. Chế tạo/sản xuất 8. Manufacture
+9. Đưa sản phẩm ra thị trường 9. Deliver
+***Sản Phẩm * ProductSản Phẩm * Product
+Sản phẩm (Product) là gì ?
+• Sản phẩm trong tiếng Anh gọi là Product.
+• Sản phẩm theo quan điểm marketing là tất cả những gì được chào
+bán (thu hút sự chú ý và mua sắm của khách hàng) trên thương
+trường với có khả năng thỏa mãn được nhu cầu hay mong muốn của
+khách hàng.
+• Cấu thành nên một sản phẩm hoàn chỉnh luôn bao gồm cả những
+yếu tố vật chất và các yếu tố phi vật chất.Sản Phẩm * Product
+What is a product ?
+• In marketing, a product (a
+good, service, or idea), along
+with its perceived attributes
+and benefits, creates value for
+the customers. Attributes can
+be tangible (packaging…) or
+intangible (brand image …)Sản Phẩm * ProductChỉ tiêu kỹ thuật * Technical SpecificationsKiểm tra * Test
+Match expectations
+Cultivate the hands…
+Evaluate feedback
+of end users
+… to test out
+prototypes thinker
+build more and talk less
+visualize and build to convey
+validate and iterate
+concepts and solutions in a
+quickly
+quick and decisive way
+So, don’t be afraid
+to get them dirty!
+communicate
+results to end usersNHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+4P theory Project Design Creative Learning Cycle
+***Bài tập lớn
+thực hiện
+theo
+nhóm
+***THANK YOU !NHẬP MÔN
+KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+ET5270
+Introduction to Electronics and
+Telecommunication Engineering
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện-Điện tử * Đại học Bách Khoa Hà Nội
+--- Văn bản từ PDF 13 ---
+NHẬP MÔN
+KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+ET5270
+Introduction to Electronics and
+Telecommunication Engineering
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện-Điện tử * Đại học Bách Khoa Hà NộiNHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+***NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+***NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+***NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+***NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+1. Mục tiêu
+2. Nội dung học phần
+3. Tổ chức lớp & đánh giá
+4. Tài liệu và học cụ
+***NHẬP MÔN KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+B
+A
+Mục tiêu Nội dung học phần
+D
+C
+Tổ chức lớp & đánh giá
+Tài liệu và học cụ
+***MỤC TIÊU
+Tôi là ai?
+Đây là đâu?
+Tại sao tôi lại ở đây?
+Nắm được các kiến thức
+Kĩ sư Điện tử Viễn thông làm gì? Làm ở đâu?
+Các kĩ năng, phẩm chất cần thiết của kĩ sư ĐTVT
+là gì?
+Kĩ năng cần thiết trong học tập
+Thành phần của hệ thống/thiết bị Điện tử Viễn
+thông
+Hệ đào tạo và chương trình học
+Quy trình thiết kế Điện tử Viễn thông
+Các bước giải quyết vấn đề
+***NỘI DUNG HỌC PHẦN
+• Chương 1: Kỹ thuật điện tử viễn thông
+• Giới thiệu ngành kỹ thuật
+• Kỹ thuật điện tử viễn thông
+• Vị trí việc làm và con đường nghề nghiệp
+• Kĩ năng, phẩm chất cần thiết
+• Đạo đức nghề nghiệp
+• Chương 2: Hệ thống/thiết bị điện tử viễn thông
+• Phần tử điện tử cơ bản
+• Máy tính
+• Phần mềm
+• Mạng máy tính và viễn thông
+• Thu thập và phân tích dữ liệu
+• Biểu diễn phân lớp hệ thống …
+***NỘI DUNG HỌC PHẦN
+• Chương 3: Phân tích thiết kế kỹ thuật
+• Các công cụ giải quyết vấn đề
+• Quy trình thiết kế điện tử viễn thông
+• Chương 4: Thực hành
+• Thiết kế thiết bị/hệ thống ĐTVT đơn giản
+• Báo cáo kết quả
+• Thuyết trình
+***TỔ CHỨC VÀ ĐÁNH GIÁ
+• Thời gian học
+• Tiết 3-4 chiều thứ 2 hàng tuần
+• Đúng giờ
+• Có điểm danh
+• Đánh giá:
+• Đi học đầy đủ: 10%
+• Tương tác và hoạt động: 30%
+• Thực hành dự án theo nhóm: 60%
+• Chia nhóm
+• Nhóm 4-5 Sinh viên/nhóm
+***TÀI LIỆU VÀ HỌC CỤ
+• Tài liệu
+• Slide, bảng
+• Charles B. Fleddermann, Martin D.
+Bradshaw, Introduction to Electrical and
+Computer Engineering, Prentice Hall, 2003
+• Nguyễn Vũ Phương Nam, Bốn bước giải
+quyết vấn đề
+• Phần mềm
+• Báo cáo: Word, Powerpoint
+• Lập trình: Arduino IDE…
+• Phần cứng: Arduino Uno …
+• Quản lý công việc: Trello…
+***THANK YOU !NHẬP MÔN
+KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG
+ET5270
+Introduction to Electronics and
+Telecommunication Engineering
+PGS. TS. Đỗ Trọng Tuấn
+Trường Điện-Điện tử * Đại học Bách Khoa Hà Nội

@@ -1,32 +1,17 @@
-from langchain_community.llms import CTransformers
+import os
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
-import gradio as gr
-
 from src.retriever import create_retriever
 from src.load_llm import load_llm
 from src.prepare_vector_db import load_db
 
-
-def create_prompt(template):
-    prompt = PromptTemplate(template=template, input_variables=["context","question"])
-    return prompt
-
-
-def create_chain(llm, prompt, db):
-    retriever = create_retriever(db)
-    chain = RetrievalQA.from_chain_type(
-        llm=llm,
-        chain_type='stuff',
-        retriever=retriever,
-        return_source_documents=True,
-        chain_type_kwargs={'prompt': prompt}
-    )
-    return chain
-
+# Load the database and language model
 db = load_db('vector_db/')
 llm = load_llm()
 
+# Create the prompt template
 template = '''
 <|im_start|>system
 Bạn là trợ lý AI thông minh, chuyên hỗ trợ sinh viên Điện tử Viễn thông của Đại học Bách Khoa. Khi trả lời, hãy cung cấp thông tin chi tiết, chính xác và dễ hiểu, nhưng chỉ giới hạn trong những nội dung có liên quan đến ngành Điện tử viễn thông và môn học Nhập môn Điện tử viễn thông. Hãy giữ câu trả lời ngắn gọn, không đi sâu vào các nội dung ngoài phạm vi của ngành. Nếu câu hỏi nằm ngoài phạm vi thông tin của ngành, lịch sự từ chối trả lời.
@@ -48,46 +33,47 @@ Câu hỏi của sinh viên:
 Câu trả lời (liên quan đến ngành Điện tử viễn thông):
 '''
 
-prompt = create_prompt(template)
+prompt = PromptTemplate(template=template, input_variables=["context", "question"])
+
+# Create the chain
+def create_chain(llm, prompt, db):
+    retriever = create_retriever(db)
+    chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type='stuff',
+        retriever=retriever,
+        return_source_documents=True,
+        chain_type_kwargs={'prompt': prompt}
+    )
+    return chain
+
 chain = create_chain(llm, prompt, db)
 
-def get_answer(question):
-    return chain.invoke(question)["result"]
+# Define the bot logic
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Xin chào! Tôi là trợ lý AI hỗ trợ ngành Điện tử Viễn thông. Hãy đặt câu hỏi của bạn!")
 
-import gradio as gr
+async def ask_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    question = update.message.text
+    try:
+        response = chain.invoke(question)
+        answer = response["result"]
+    except Exception as e:
+        answer = f"Đã xảy ra lỗi: {str(e)}"
 
+    await update.message.reply_text(answer)
 
-conversation_history = []
+# Main function to run the bot
+def main():
+    API_TOKEN = "7849554526:AAEbJcX66KBITzXYAhdJT2D5_DBaAdbv6VE"  # Replace with your Telegram bot token
 
-def get_answer(question):
-    
-    conversation_history.append(("Sinh viên", question))
-    
-    answer = chain.invoke(question)["result"]
-    conversation_history.append(("Trợ lý", answer))
-    
-    chat_display = ""
-    for speaker, text in conversation_history:
-        chat_display += f"**{speaker}:** {text}\n\n"
-    return chat_display
-# Gradio interface
-with gr.Blocks() as rag_interface:
-    
-    gr.Markdown("<h1>University FAQ Helper</h1><p>Ask a question, and I’ll retrieve relevant information to provide an answer!</p>")
-    
-    # Display chat history
-    chat_output = gr.Textbox(label="Chat History", value="", lines=10, interactive=False)
-    
-    # Input for the user's question
-    question_input = gr.Textbox(label="Nhập câu hỏi của bạn", placeholder="Type your question here...", lines=2)
-    
-    # Submit button to update the conversation
-    submit_button = gr.Button("Submit")
-    submit_button.click(fn=get_answer, inputs=question_input, outputs=chat_output)
-    
-    # Clear button to reset the conversation
-    clear_button = gr.Button("Clear Chat")
-    clear_button.click(fn=lambda: "", outputs=chat_output)
-    
-# Launch the interface
-rag_interface.launch(inbrowser=True, share=False)
+    app = ApplicationBuilder().token(API_TOKEN).build()
+
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, ask_question))
+
+    print("Bot is running...")
+    app.run_polling()
+
+if __name__ == "__main__":
+    main()
