@@ -10,3 +10,8 @@ langchain_groq
 langchain_core
 rank_bm25
 sentence_transformers
+gdown 
+pdfplumber 
+pdf2image 
+pytesseract 
+pillow
